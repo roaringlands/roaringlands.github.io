@@ -20,7 +20,7 @@ The codex is where you can learn more about the Roaring Lands.
 - [The Rabid](/codex/the-rabid)
 
 ### Regions & Places {#regions}
-- <span class="redacted" markdown="1">[Arajaale Tropics](/codex/regions/arajaale-tropics)</span><span class="status-pill pill-ally">Ally</span><span class="status-pill pill-neutral">Neutral</span><span class="status-pill pill-enemy">enemy</span><span class="status-pill pill-dead">Dead</span>
+- <span class="redacted" markdown="1">[Arajaale Tropics](/codex/regions/arajaale-tropics)</span>
     - <span class="redacted" markdown="1">[Shadowcrest Vale](/codex/regions/shadowcrest-vale)</span>
         - <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>
             - <span class="redacted" markdown="1">[The Emerald Gardens](/codex/regions/the-emerald-gardens)</span>
@@ -65,17 +65,17 @@ The codex is where you can learn more about the Roaring Lands.
 - <span class="redacted" markdown="1">[Healing Salve](/codex/items/healing-salve)</span>
 
 ### Allies & Enemies {#characters}
-- <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span>
-- <span class="redacted" markdown="1">[Finnian Ironhide](/codex/characters/finnian-ironhide)</span>
-- <span class="redacted" markdown="1">[Gavin Shadowblade](/codex/characters/gavin-shadowblade)</span>
-- <span class="redacted" markdown="1">[Kaela Frostheart](/codex/characters/kaela-frostheard)</span>
-- <span class="redacted" markdown="1">[Kaiser Kirk](/codex/characters/kaiser-kirk.md)</span>
-- <span class="redacted" markdown="1">[Kassoum Yaro](/codex/characters/kassoum-yaro)</span>
-- <span class="redacted" markdown="1">[Melantha Yaro](/codex/characters/melantha-yaro)</span>
-- <span class="redacted" markdown="1">[Rhannon Stormcaller](/codex/characters/rhannon-stormcaller)</span>
-- <span class="redacted" markdown="1">[Rur Ifom](/codex/characters/rur-ifom)</span>
-- <span class="redacted" markdown="1">[Talia Trask](/codex/characters/talia-trask)</span>
-- <span class="redacted" markdown="1">[Thal'kor the Bone Lord](/codex/characters/thalkor-the-bone-lord)</span>
-- <span class="redacted" markdown="1">[Trisileth Erebor](/codex/characters/trisileth-erebor)</span>
-- <span class="redacted" markdown="1">[Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)</span>
-- <span class="redacted" markdown="1">[Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)</span>
+- <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Finnian Ironhide](/codex/characters/finnian-ironhide)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Gavin Shadowblade](/codex/characters/gavin-shadowblade)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Kaela Frostheart](/codex/characters/kaela-frostheard)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Kaiser Kirk](/codex/characters/kaiser-kirk.md)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Kassoum Yaro](/codex/characters/kassoum-yaro)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Melantha Yaro](/codex/characters/melantha-yaro)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Rhannon Stormcaller](/codex/characters/rhannon-stormcaller)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Rur Ifom](/codex/characters/rur-ifom)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Talia Trask](/codex/characters/talia-trask)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Thal'kor the Bone Lord](/codex/characters/thalkor-the-bone-lord)</span><span class="status-pill pill-enemy">enemy</span>
+- <span class="redacted" markdown="1">[Trisileth Erebor](/codex/characters/trisileth-erebor)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)</span><span class="status-pill pill-enemy">enemy</span>
