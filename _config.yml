@@ -154,7 +154,7 @@ footer-hover-col: "#cccccc"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css-primary:
+site-css:
 #  - "/assets/css/custom-styles.css"
 # - href = "https://unpkg.com/augmented-ui@2/augmented-ui.min.css">
  - "https://unpkg.com/augmented-ui@2/augmented-ui.min.css"
