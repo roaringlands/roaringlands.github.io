@@ -53,6 +53,10 @@ layout: null
   color: var(--primaryContrastColor);
 }
 
+
+.breadcrumbs {
+  font-size: 0.8rem;
+}
 /* OVERRIDE STYLES */
 
 .avatar-img {
