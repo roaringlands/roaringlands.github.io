@@ -79,6 +79,7 @@ layout: null
 .codex {background-image: url("/assets/img/codex.jpg");}
 .schedule {background-image: url("/assets/img/schedule.jpg");}
 .game-group {background-image: url("/assets/img/group.jpg");}
+.adventure-logs {background-image: url("/assets/img/group-2.jpg");}
 
 
 /* OVERRIDE STYLES */
@@ -95,7 +96,7 @@ layout: null
 
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-  text-shadow: 0.25rem 0.25rem #000;
+  text-shadow: 2px 2px #000;
 }
 
 .navbar-custom {
