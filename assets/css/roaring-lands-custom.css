@@ -70,10 +70,8 @@ layout: null
   width: 100%;
   background-size: cover;
   background-position: center;
-  font-size: 1.5em;
-  display: inline-block;
-  vertical-align: middle;
-  line-height: normal;
+  font-size: 3em;
+  padding: 0.5em;
 }
 
 .codex {background-image: url("/assets/img/codex.jpg");}
