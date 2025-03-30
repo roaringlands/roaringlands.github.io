@@ -38,7 +38,7 @@ layout: null
 }
 
 .return-to-codex {
-  position: fixed;
+  position: absolute;
   top: 2rem;
   left: 4rem;
   z-index: 999;
