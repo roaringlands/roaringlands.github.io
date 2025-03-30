@@ -3,6 +3,7 @@ layout: page
 title: The Golden Chalice
 subtitle: Beacon of refinement and indulgence
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [The Upper Ward](/codex/regions/upper-ward) / The Golden Chalice</span>
 
 ![The Golden Chalice](/assets/img/regions/golden-chalice.jpeg){: .mx-auto.d-block :}
 

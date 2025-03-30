@@ -2,6 +2,7 @@
 layout: page
 title: Global Mercenaries Guild
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Global Mercenaries Guild</span>
 
 The Global Mercenary Guild is an organization that exists across the globe. Although there are a few generalized practices and procedures which are used and apply across all branches, most branches have their own unique quirks and nuances.
 

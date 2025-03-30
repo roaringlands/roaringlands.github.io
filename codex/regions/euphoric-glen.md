@@ -3,6 +3,7 @@ layout: page
 title: Euphoric Glen
 subtitle: A place of supernatural peace and joy
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Euphoric Glen</span>
 
 ![Euphoric Glen](/assets/img/regions/euphoric-glen.jpeg){: .mx-auto.d-block :}
 

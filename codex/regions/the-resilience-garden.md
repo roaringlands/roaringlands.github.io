@@ -3,6 +3,7 @@ layout: page
 title: The Resilience Garden
 subtitle: A respite commemorating the people of Ashen Town
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Ashen Town](/codex/regions/the-hearthside-bakery) / The Resilience Garden</span>
 
 ![The Resilience Garden](/assets/img/regions/resilience-garden.jpeg){: .mx-auto.d-block :}
 

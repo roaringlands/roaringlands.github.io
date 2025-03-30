@@ -3,6 +3,7 @@ layout: page
 title: The Exalted Forest
 subtitle: An marketplace for supernatural goods
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Market Town](/codex/regions/market-town) / [The Arcane Exchange](/codex/regions/the-arcane-exchange) / The Exalted Forest</span>
 
 ![The Exalted Forest](/assets/img/regions/the-exalted-forest.jpeg){: .mx-auto.d-block :}
 

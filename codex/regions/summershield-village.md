@@ -3,6 +3,7 @@ layout: page
 title: Summershield Village
 subtitle: An idyllic village nestled in the jungle
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Summershield Village</span>
 
 ![Summershield Village](/assets/img/regions/summershield-village.jpeg){: .mx-auto.d-block :}
 

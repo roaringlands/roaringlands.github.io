@@ -3,6 +3,7 @@ layout: page
 title: Eredos Yon
 subtitle: Captain of the guard
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Eredos Yon</span>
 
 ![Eredos Yon](/assets/img/characters/eredos-yon.jpg){: .mx-auto.d-block :}
 

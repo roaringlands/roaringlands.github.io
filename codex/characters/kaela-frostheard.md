@@ -3,6 +3,7 @@ layout: page
 title: Kaela Frostheart
 subtitle: Hedonistic druid with a heart of gold
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Kaela Frostheart</span>
 
 ![Kaela Frostheart](/assets/img/characters/kaela-frostheart.jpg){: .mx-auto.d-block :}
 

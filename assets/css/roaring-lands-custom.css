@@ -56,7 +56,14 @@ layout: null
 
 .breadcrumbs {
   font-size: 0.8rem;
+  outline: none;
+  border: 1px solid var(--secondaryThemeColor);
+  color: var(--secondaryThemeColor);
+  background-color: var(--primaryContrastColor);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
 }
+
 /* OVERRIDE STYLES */
 
 .avatar-img {

@@ -3,6 +3,7 @@ layout: page
 title: Misty Ford
 subtitle: A rural community at the edge of civilization
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Misty Ford</span>
 
 ![Misty Ford](/assets/img/regions/misty-ford.jpg){: .mx-auto.d-block :}
 

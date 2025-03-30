@@ -2,6 +2,7 @@
 layout: page
 title: Eldritch Gateway
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Eldritch Gateway</span>
 
 ![Eldritch Gateway](/assets/img/items/eldritch-gateway.jpeg){: .mx-auto.d-block :}
 

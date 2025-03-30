@@ -3,6 +3,7 @@ layout: page
 title: Ashen Town
 subtitle: A testament to resilience
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Ashen Town</span>
 
 ![Ashen Town](/assets/img/regions/ashen-town.jpg){: .mx-auto.d-block :}
 

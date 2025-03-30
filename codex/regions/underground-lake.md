@@ -3,6 +3,7 @@ layout: page
 title: Underground Lake
 subtitle: A nighttime market where street vendors sell their wares
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Underground Lake</span>
 
 ![Underground Lake](/assets/img/regions/underground-lake.jpeg){: .mx-auto.d-block :}
 

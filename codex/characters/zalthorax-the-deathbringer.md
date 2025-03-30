@@ -3,6 +3,7 @@ layout: page
 title: Zalthorax the Deathbringer
 subtitle: An amateur necromancer
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Zalthorax the Deathbringer</span>
 
 ![Zal'thorax the Deathbringer](/assets/img/characters/zalthorax-the-deathbringer.jpg){: .mx-auto.d-block :}
 

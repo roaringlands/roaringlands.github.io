@@ -3,6 +3,7 @@ layout: page
 title: Thal'kor the Bone Lord
 subtitle: A tool who calls himself a necromancer
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Thal'kor the Bone Lord</span>
 
 ![Thal'kor the Bone Lord](/assets/img/characters/thalkor-the-bone-lord.jpg){: .mx-auto.d-block :}
 

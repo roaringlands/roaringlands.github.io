@@ -3,6 +3,7 @@ layout: page
 title: Rur Ifom
 subtitle: Proprietor of the Shadowed Tavern
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Rur Ifom</span>
 
 ![Rur Ifom](/assets/img/characters/rur-ifom.jpg){: .mx-auto.d-block :}
 

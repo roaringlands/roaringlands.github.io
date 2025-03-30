@@ -3,6 +3,7 @@ layout: page
 title: Rhannon Stormcaller
 subtitle: An unassuming warrior with deep wells of rage
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Rhannon Stormcaller</span>
 
 ![Rhannon Stormcaller](/assets/img/characters/rhannon-stormcaller.jpg){: .mx-auto.d-block :}
 

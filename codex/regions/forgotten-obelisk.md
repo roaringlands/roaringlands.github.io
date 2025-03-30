@@ -3,6 +3,7 @@ layout: page
 title: Forgotten Obelisk
 subtitle: A relic of a long-lost civilization
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Forgotten Obelisk</span>
 
 ![Forgotten Obelisk](/assets/img/regions/forgotten-obelisk.jpeg){: .mx-auto.d-block :}
 

@@ -2,6 +2,7 @@
 layout: page
 title: Normal Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Normal Aether</span>
 
 ![Normal Aether](/assets/img/items/aether-normal.jpeg){: .mx-auto.d-block :}
 

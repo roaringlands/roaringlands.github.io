@@ -2,6 +2,7 @@
 layout: page
 title: The Rite of Awakening
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / The Rite of Awakening</span>
 
 The Rite of Awakening is a magical ritual any character can perform, assuming they meet the following requirements:
 

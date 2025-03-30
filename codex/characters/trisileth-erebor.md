@@ -3,6 +3,7 @@ layout: page
 title: Trisileth Erebor
 subtitle: Agent for the Global Mercenaries Guild
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Trisileth Erebor</span>
 
 ![Trisileth Erebor](/assets/img/characters/trisileth-erebor.jpg){: .mx-auto.d-block :}
 

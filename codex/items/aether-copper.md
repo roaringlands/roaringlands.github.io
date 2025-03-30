@@ -2,6 +2,7 @@
 layout: page
 title: Copper Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Copper Aether</span>
 
 ![Copper Aether](/assets/img/items/aether-copper.jpeg){: .mx-auto.d-block :}
 

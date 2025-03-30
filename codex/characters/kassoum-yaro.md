@@ -3,6 +3,7 @@ layout: page
 title: Kassoum Yaro
 subtitle: Co-proprietor of The Exalted Forest
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Kassoum Yaro</span>
 
 ![Kassoum Yaro](/assets/img/characters/kassoum-yaro.jpg){: .mx-auto.d-block :}
 

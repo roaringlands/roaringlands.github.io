@@ -3,6 +3,7 @@ layout: page
 title: Market Town
 subtitle: The economic center of Shadowcrest Vale
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Market Town</span>
 
 ![Market Town](/assets/img/regions/market-town.jpg){: .mx-auto.d-block :}
 

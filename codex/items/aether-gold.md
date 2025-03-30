@@ -2,6 +2,7 @@
 layout: page
 title: Gold Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Gold Aether</span>
 
 ![Gold Aether](/assets/img/items/aether-gold.jpeg){: .mx-auto.d-block :}
 

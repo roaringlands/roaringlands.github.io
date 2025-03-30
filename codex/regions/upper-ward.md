@@ -3,6 +3,7 @@ layout: page
 title: The Upper Ward
 subtitle: A ward in Shadowcrest Vale
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / The Upper Ward</span>
 
 ![The Upper Ward](/assets/img/regions/upper-ward.jpg){: .mx-auto.d-block :}
 

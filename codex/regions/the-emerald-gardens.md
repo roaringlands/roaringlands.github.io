@@ -3,6 +3,7 @@ layout: page
 title: The Emerald Gardens
 subtitle: A botanical paradise for the city elite
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [The Upper Ward](/codex/regions/upper-ward) / The Emerald Gardens</span>
 
 ![The Emerald Gardens](/assets/img/regions/emerald-gardens.jpeg){: .mx-auto.d-block :}
 

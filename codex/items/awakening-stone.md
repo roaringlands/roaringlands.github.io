@@ -2,6 +2,7 @@
 layout: page
 title: Awakening Stone
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Awakening Stone</span>
 
 ![Awakening Stone](/assets/img/items/awakening-stone.jpeg){: .mx-auto.d-block :}
 

@@ -2,6 +2,7 @@
 layout: page
 title: Healing Salve
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Healing Salve</span>
 
 ![Healing Salve](/assets/img/items/healing-salve.jpeg){: .mx-auto.d-block :}
 

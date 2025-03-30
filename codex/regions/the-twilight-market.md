@@ -3,6 +3,7 @@ layout: page
 title: The Twilight Market
 subtitle: A nighttime market where street vendors sell their wares
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Market Town](/codex/regions/market-town) / The Twilight Market</span>
 
 ![The Twilight Market](/assets/img/regions/twilight-market.jpeg){: .mx-auto.d-block :}
 

@@ -2,6 +2,7 @@
 layout: page
 title: Platinum Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Platinum Aether</span>
 
 ![Platinum Aether](/assets/img/items/aether-platinum.jpeg){: .mx-auto.d-block :}
 

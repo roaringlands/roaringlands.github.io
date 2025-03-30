@@ -3,6 +3,7 @@ layout: page
 title: The Towering Gardens
 subtitle: A comfortable inn where bands take their ease
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Green Well](/codex/regions/green-well) / The Towering Gardens</span>
 
 ![The Towering Gardens Exterior](/assets/img/regions/towering-gardens-exterior.jpeg){: .mx-auto.d-block :}
 

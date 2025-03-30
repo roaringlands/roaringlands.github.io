@@ -3,6 +3,7 @@ layout: page
 title: The Shadowed Tavern
 subtitle: A gathering place for the denizens of Dark End
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Dark End](/codex/regions/dark-end) / The Shadowed Tavern</span>
 
 ![The Shadowed Tavern](/assets/img/regions/shadowed-tavern.jpeg){: .mx-auto.d-block :}
 

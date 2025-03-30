@@ -3,6 +3,7 @@ layout: page
 title: The Ivory Tower
 subtitle: The intellectual heart of Shadowcrest Vale
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [The Upper Ward](/codex/regions/upper-ward) / The Ivory Tower</span>
 
 ![The Ivory Tower](/assets/img/regions/ivory-tower.jpeg){: .mx-auto.d-block :}
 

@@ -2,6 +2,7 @@
 layout: page
 title: Green Well
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Green Well</span>
 
 ![Green Well](/assets/img/regions/green-well.jpg){: .mx-auto.d-block :}
 

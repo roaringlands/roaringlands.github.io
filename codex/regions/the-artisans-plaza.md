@@ -3,6 +3,7 @@ layout: page
 title: The Artisan's Plaza
 subtitle: A home for craftsmen and artisans
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [The Hill](/codex/regions/the-hill) / The Artisan's Plaza</span>
 
 ![The Artisan's Plaza](/assets/img/regions/artisans-plaza.jpeg){: .mx-auto.d-block :}
 

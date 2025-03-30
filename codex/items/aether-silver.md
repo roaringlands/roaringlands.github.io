@@ -2,6 +2,7 @@
 layout: page
 title: Silver Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Silver Aether</span>
 
 ![Silver Aether](/assets/img/items/aether-silver.jpeg){: .mx-auto.d-block :}
 

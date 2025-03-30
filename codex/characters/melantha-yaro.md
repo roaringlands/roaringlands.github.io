@@ -3,6 +3,7 @@ layout: page
 title: Melantha Yaro
 subtitle: Co-proprietor of The Exalted Forest
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Melantha Yaro</span>
 
 ![Melantha Yaro](/assets/img/characters/melantha-yaro.jpg){: .mx-auto.d-block :}
 

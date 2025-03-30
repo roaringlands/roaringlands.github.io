@@ -3,6 +3,7 @@ layout: page
 title: Vaneiros Oakenpetal
 subtitle: Owner of The Towering Gardens
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Vaneiros Oakenpetal</span>
 
 ![Vaneiros Oakenpetal](/assets/img/characters/vaneiros-oakenpetal.jpg){: .mx-auto.d-block :}
 

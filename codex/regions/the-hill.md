@@ -3,6 +3,7 @@ layout: page
 title: The Hill
 subtitle: The haven for the middle-class
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / The Hill</span>
 
 ![The Hill](/assets/img/regions/the-hill.jpg){: .mx-auto.d-block :}
 

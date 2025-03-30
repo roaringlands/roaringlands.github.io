@@ -3,6 +3,7 @@ layout: page
 title: The Feywild Market
 subtitle: A mystical marketplace
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Misty Ford](/codex/regions/misty-ford) / The Feywild Market</span>
 
 ![The Feywild Market](/assets/img/regions/feywild-market.jpeg){: .mx-auto.d-block :}
 

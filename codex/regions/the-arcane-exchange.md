@@ -3,6 +3,7 @@ layout: page
 title: The Arcane Exchange
 subtitle: An marketplace for supernatural goods
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Market Town](/codex/regions/market-town) / The Arcane Exchange</span>
 
 ![The Arcane Exchange](/assets/img/regions/arcane-exchange.jpeg){: .mx-auto.d-block :}
 

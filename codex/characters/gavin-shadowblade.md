@@ -3,6 +3,7 @@ layout: page
 title: Gavin Shadowblade
 subtitle: Dour troubador with widely varied talents
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Gavin Shadowblade</span>
 
 ![Gavin Shadowblade](/assets/img/characters/gavin-shadowblade.jpg){: .mx-auto.d-block :}
 

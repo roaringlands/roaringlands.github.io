@@ -3,6 +3,7 @@ layout: page
 title: Dark End
 subtitle: A haven for the lawless and downtrodden
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Dark End</span>
 
 ![Dark End](/assets/img/regions/dark-end.jpg){: .mx-auto.d-block :}
 

@@ -3,6 +3,7 @@ layout: page
 title: Lost Ziggurat
 subtitle: A hidden trove lost to time
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Lost Ziggurat</span>
 
 ![Lost Ziggurat](/assets/img/regions/lost-ziggurat.jpeg){: .mx-auto.d-block :}
 

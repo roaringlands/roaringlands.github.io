@@ -2,6 +2,7 @@
 layout: page
 title: Nullifying Shackles
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Nullifying Shackles</span>
 
 ![Nullifying Shackles](/assets/img/items/nullifying-shackles.jpeg){: .mx-auto.d-block :}
 

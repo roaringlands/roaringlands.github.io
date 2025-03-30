@@ -3,6 +3,7 @@ layout: page
 title: The Hearthside Bakery
 subtitle: A must-see spot with exceptional pastry
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Ashen Town](/codex/regions/the-hearthside-bakery) / The Hearthside Bakery</span>
 
 ![The Hearthside Bakery](/assets/img/regions/hearthside-bakery.jpeg){: .mx-auto.d-block :}
 

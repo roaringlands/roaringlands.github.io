@@ -2,6 +2,7 @@
 layout: page
 title: Transcendant Aether
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Transcendant Aether</span>
 
 ![Transcendant Aether](/assets/img/items/aether-transcendant.jpeg){: .mx-auto.d-block :}
 

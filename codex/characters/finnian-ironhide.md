@@ -3,6 +3,7 @@ layout: page
 title: Finnian Ironhide
 subtitle: Leader of Halgrun's Heroes
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Finnian Ironhide</span>
 
 ![Finnian Ironhide](/assets/img/characters/finnian-ironhide.jpg){: .mx-auto.d-block :}
 

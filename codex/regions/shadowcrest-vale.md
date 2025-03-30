@@ -2,6 +2,7 @@
 layout: page
 title: Shadowcrest Vale
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Shadowcrest Vale</span>
 
 ![Shadowcrest Vale](/assets/img/regions/shadowcrest_vale_portrait.jpg){: .mx-auto.d-block :}
 

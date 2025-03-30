@@ -3,6 +3,7 @@ layout: page
 title: The Forgotten Library
 subtitle: A library full of forbidden lore
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Dark End](/codex/regions/dark-end) / The Forgotten Library</span>
 
 ![The Forgotten Library](/assets/img/regions/forgotten-library.jpeg){: .mx-auto.d-block :}
 

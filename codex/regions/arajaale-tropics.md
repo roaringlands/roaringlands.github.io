@@ -2,6 +2,7 @@
 layout: page
 title: Arajaale Tropics
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Arajaale Tropics</span>
 
 ![Arajaale Tropics](/assets/img/regions/arajaale-tropics.jpeg){: .mx-auto.d-block :}
 
