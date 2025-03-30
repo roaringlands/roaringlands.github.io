@@ -74,6 +74,7 @@ layout: null
   line-height: 1em;
   text-shadow: 0.25rem 0.25rem #000;
   border-radius: 0.5rem;
+  position: relative;
 }
 
 .codex {background-image: url("/assets/img/codex.jpg");}
@@ -136,7 +137,7 @@ table tr th {
   color: var(--primaryContrastColor);
 }
 
-summary .codex-category{
+summary .codex-category {
   font-size: 1.5rem;
   font-family: var(--header-font);
 }
