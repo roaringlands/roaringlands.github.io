@@ -302,11 +302,12 @@ summary .codex-category{
   color: #ffffff;
  }
 
- .ai-img::before {
+ .ai-img {
   content: "AI";
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
-  position: relative;
-  margin: 1rem;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
   font-size: 0.8rem;
   width: 100%;
   height: 4em;
