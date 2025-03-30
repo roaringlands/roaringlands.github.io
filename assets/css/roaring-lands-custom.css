@@ -141,6 +141,9 @@ summary .codex-category {
   font-family: var(--header-font);
 }
 
+.post-image a {
+  position: relative;
+}
 
 /* SITE NAME ANIMATION */
 
