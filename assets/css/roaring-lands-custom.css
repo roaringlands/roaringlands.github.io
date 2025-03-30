@@ -39,8 +39,8 @@ layout: null
 
 .return-to-codex {
   position: fixed;
-  top: 4rem;
-  left: 2rem;
+  top: 6rem;
+  left: 4rem;
   z-index: 99;
   border: none;
   outline: none;
@@ -51,6 +51,11 @@ layout: null
   padding: 0.5rem;
   border-radius: 0.5rem;
   font-size: 1rem;
+}
+
+.return-to-codex::hover {
+  background-color: var(--primaryThemeColor);
+  color: var(--primaryContrastColor);
 }
 
 /* OVERRIDE STYLES */
