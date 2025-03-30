@@ -3,8 +3,7 @@ layout: page
 title: Copper Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Copper Aether</span>
-
-<div markdown="1">
+<div class="position-placeholder" markdown="1">
 ![Copper Aether](/assets/img/items/aether-copper.jpg){: .mx-auto.d-block :}
 <span class="ai-img">AI Art</span>
 </div>

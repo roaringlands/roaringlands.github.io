@@ -305,8 +305,26 @@ summary .codex-category {
   color: #ffffff;
  }
 
+.position-placeholder {position: relative};
+
  .ai-img {
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+
+  padding: 0.5rem;
+  font-size: 0.7rem;
+  line-height: 0.7rem;
+  color: rgba(255,255,255,0.7);
+  background-color: rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 0.25rem;
+  text-shadow: none;
+}
+
+.ai-art::after {
+  font-family: "Open Sans", Arial, Verdana, sans-serif;
   position: absolute;
   bottom: 1rem;
   right: 1rem;
