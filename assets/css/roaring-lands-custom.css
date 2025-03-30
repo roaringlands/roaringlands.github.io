@@ -323,6 +323,8 @@ summary .codex-category {
   text-shadow: none;
 }
 
+.ai-art {position:relative;}
+
 .ai-art::after {
   font-family: "Open Sans", Arial, Verdana, sans-serif;
   position: absolute;
