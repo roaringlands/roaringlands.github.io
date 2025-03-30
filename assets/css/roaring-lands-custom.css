@@ -106,7 +106,6 @@ layout: null
 .navbar-custom {
   background: var(--primaryThemeColor);
   box-shadow: 0 3px 3px;
-
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -309,11 +308,12 @@ summary .codex-category {
   bottom: 1rem;
   right: 1rem;
 
-  padding: 0.5rem;
+  padding: 0.5rem 0;
   font-size: 0.8rem;
-  color: var(--primaryContrastColor);
-  background-color: var(--secondaryThemeColor);
-  border: 1px solid var(--primaryContrastColor);
+  line-height: 1.5rem;
+  color: rgba(255,255,255,0.7);
+  background-color: rgba(0,0,0,0.3);
+  border: 1px solid rgba(255,255,255,0.5);
   border-radius: 0.25rem;
   text-shadow: none;
 }
