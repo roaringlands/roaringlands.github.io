@@ -303,17 +303,16 @@ summary .codex-category{
  }
 
  .ai-img {
-  content: "AI";
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
   position: absolute;
   bottom: 1rem;
   right: 1rem;
+
+  padding: 0.5rem;
   font-size: 0.8rem;
-  width: 100%;
-  height: 4em;
-  color: var(--primaryThemeColor);
-  background-color: var(--primaryContrastColor);
-  border: 1px solid var(--primaryThemeColor);
+  color: var(--primaryContrastColor);
+  background-color: var(--secondaryThemeColor);
+  border: 1px solid var(--primaryContrastColor);
   border-radius: 0.25rem;
   text-shadow: none;
 }
