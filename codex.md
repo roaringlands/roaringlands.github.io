@@ -14,6 +14,7 @@ The codex is where you can learn more about the Roaring Lands.
 - [Allies & Enemies](#characters)
 
 ### Basic Lore {#basic-lore}
+- [The Roaring Lands](/codex/the-roaring-lands)
 - [The Awakened](/codex/the-awakened)
 - [Tiers of Awakening](/codex/tiers-of-awakening)
 - [The Rite of Awakening](/codex/the-rite-of-awakening)
@@ -49,20 +50,20 @@ The codex is where you can learn more about the Roaring Lands.
     - <span class="redacted" markdown="1">[Forgotten Obelisk](/codex/regions/forgotten-obelisk)</span>
 
 ### Organizations {#organizations}
-- <span class="redacted" markdown="1">[Global Mercenaries Guild](/codex/global-mercenaries-guild)</span>
+- [Global Mercenaries Guild](/codex/global-mercenaries-guild)
 - <span class="redacted" markdown="1">[Slognoth Eldritch Supplies](/codex/slognoth-eldritch-supplies)</span>
 
 ### Items & Technologies {#items}
 - <span class="redacted" markdown="1">[Eldtritch Gateway](/codex/items/eldritch-gateway)</span>
 - <span class="redacted" markdown="1">[Nullifying Shackles](/codex/items/nullifying-shackles)</span>
-- <span class="redacted" markdown="1">[Normal Aether](/codex/items/aether-normal)</span>
-- <span class="redacted" markdown="1">[Copper Aether](/codex/items/aether-copper)</span>
-- <span class="redacted" markdown="1">[Silver Aether](/codex/items/aether-silver)</span>
-- <span class="redacted" markdown="1">[Gold Aether](/codex/items/aether-gold)</span>
-- <span class="redacted" markdown="1">[Platinum Aether](/codex/items/aether-platinum)</span>
+- [Normal Aether](/codex/items/aether-normal)
+- [Copper Aether](/codex/items/aether-copper)
+- [Silver Aether](/codex/items/aether-silver)
+- [Gold Aether](/codex/items/aether-gold)
+- [Platinum Aether](/codex/items/aether-platinum)
 - <span class="redacted" markdown="1">[Transcendant Aether](/codex/items/aether-transcendant)</span>
-- <span class="redacted" markdown="1">[Awakening Stone](/codex/items/awakening-stone)</span>
-- <span class="redacted" markdown="1">[Healing Salve](/codex/items/healing-salve)</span>
+- [Awakening Stone](/codex/items/awakening-stone)
+- [Healing Salve](/codex/items/healing-salve)
 
 ### Allies & Enemies {#characters}
 - <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span><span class="status-pill pill-neutral">Neutral</span>

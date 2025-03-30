@@ -15,6 +15,26 @@ layout: null
       --header-font: "Grenze Gotisch", serif;
 }
 
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 3rem; /* Place the button at the bottom of the page */
+  right: 5rem; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 1.5rem; /* Some padding */
+  border-radius: 1rem; /* Rounded corners */
+  font-size: 1rem; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
 /* OVERRIDE STYLES */
 
 .avatar-img {
@@ -27,14 +47,11 @@ layout: null
   color: var(--secondaryThemeColor);
 }
 
-
-
 .navbar-custom {
   background: var(--primaryThemeColor);
   box-shadow: 0 3px 3px;
 
 }
-
 
 .navbar-custom .navbar-nav .nav-item {
   text-transform: none;

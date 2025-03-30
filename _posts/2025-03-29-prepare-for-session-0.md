@@ -3,7 +3,6 @@ layout: post
 title: Prepare for Session 0
 subtitle: Everything potential players need to know before we begin play!
 cover-img: /assets/img/posts/session-0-wide.jpg
-thumbnail-img: /assets/img/posts/session-0-wide.jpg
 tags: [welcome, prep]
 author: Brent L.
 ---
