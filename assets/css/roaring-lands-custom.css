@@ -65,13 +65,15 @@ layout: null
 }
 
 .section-header {
-  height: 4em;
   color: var(--primaryContrastColor);
   width: 100%;
   background-size: cover;
   background-position: center;
   font-size: 3em;
   padding: 0.5em;
+  line-height: 1em;
+  text-shadow: 1px 1px #000;
+
 }
 
 .codex {background-image: url("/assets/img/codex.jpg");}
