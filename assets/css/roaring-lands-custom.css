@@ -93,6 +93,11 @@ layout: null
   color: var(--secondaryThemeColor);
 }
 
+.intro-header.big-img .page-heading,
+.intro-header.big-img .post-heading {
+  text-shadow: 0.25rem 0.25rem #000;
+}
+
 .navbar-custom {
   background: var(--primaryThemeColor);
   box-shadow: 0 3px 3px;

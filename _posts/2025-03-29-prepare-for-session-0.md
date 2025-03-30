@@ -2,7 +2,7 @@
 layout: post
 title: Prepare for Session 0
 subtitle: Everything potential players need to know before we begin play!
-cover-img: /assets/img/posts/session-0-wide.jpg
+cover-img: /assets/img/group.jpg
 tags: [welcome, prep]
 author: Brent L.
 ---
@@ -27,19 +27,7 @@ Our primary inspiration behind this world are [RWBY](https://en.wikipedia.org/wi
 {: .box-warning}
 Game sessions will be held on the second and fourth Saturday of each month from 1pm to 5pm, at our home in Liberty.
 
-I expect players to attend regularly and to arrive on time. That being said, life happens, and we will understand if you cannot make it one week. Please just let us know as early as possible so I can plan ahead.
 
-We will cancel sessions under only a few conditions:
-1. I am unable to host (including for sickness, events with higher priority, etc)
-1. There will be fewer than 3 players, total.
-
-In all other cases, though we may not progress our campaign story, we will still get together and do something else. This is time we get to spend with friends doing things we like. Let's make the most of it.
-
-If your schedule, ability to commit, etc. changes in the future please let the group know at the beginning of the next session, and we will work together to allow the game to continue. (THE GAME MUST GO ON!)
-
-Finally, if our group decides to handle specific parts of the game, such as respite activities or leveling up, outside of the normally scheduled game session, each player is expected to complete these activities before the next session or lose all benefits that they would have gained.
-
-In other words, be a grown-up about it. If you need help, just ask.
 
 ### Creating Characters
 We will create characters in person during session 0.
