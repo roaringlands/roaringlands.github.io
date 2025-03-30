@@ -4,8 +4,10 @@ title: Trisileth Erebor
 subtitle: Agent for the Global Mercenaries Guild
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Trisileth Erebor</span>
-
+<div class="position-placeholder" markdown="1">
 ![Trisileth Erebor](/assets/img/characters/trisileth-erebor.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Trisileth Erebor is a striking woman with piercing green eyes, sharp cheekbones, and an aura of quiet authority. Her golden-blond hair and otherworldly allure hints at her elven heritage, while pale scars on various parts of her body speak to a life spent on battlefields rather than in courtly halls. She favors tailored leather vests with green highlights.
 

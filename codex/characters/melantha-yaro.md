@@ -4,8 +4,10 @@ title: Melantha Yaro
 subtitle: Co-proprietor of The Exalted Forest
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Melantha Yaro</span>
-
+<div class="position-placeholder" markdown="1">
 ![Melantha Yaro](/assets/img/characters/melantha-yaro.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Melantha Yaro is a stunning woman of middle height. Her long black hair curls only slightly at the ends and contrasts sharply with her pale face. She is thin, almost gaunt, and looks very nearly like the stereotypical vampire.
 

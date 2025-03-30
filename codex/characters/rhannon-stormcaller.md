@@ -4,8 +4,10 @@ title: Rhannon Stormcaller
 subtitle: An unassuming warrior with deep wells of rage
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Rhannon Stormcaller</span>
-
+<div class="position-placeholder" markdown="1">
 ![Rhannon Stormcaller](/assets/img/characters/rhannon-stormcaller.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Rhannon is short, blonde, and slender for her ancestry. She is often happy, but tends to fade into the background.
 

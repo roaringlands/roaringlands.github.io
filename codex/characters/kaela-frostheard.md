@@ -4,8 +4,10 @@ title: Kaela Frostheart
 subtitle: Hedonistic druid with a heart of gold
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Kaela Frostheart</span>
-
+<div class="position-placeholder" markdown="1">
 ![Kaela Frostheart](/assets/img/characters/kaela-frostheart.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Kaela Frostheart favors her human side in many ways, despite the green hued skin and tusks which protrude from her lower jaw. She is attractive and fit, and she normally wears a combination of heavy fabrics and light leathers.
 

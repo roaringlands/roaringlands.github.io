@@ -4,8 +4,10 @@ title: Gavin Shadowblade
 subtitle: Dour troubador with widely varied talents
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Gavin Shadowblade</span>
-
+<div class="position-placeholder" markdown="1">
 ![Gavin Shadowblade](/assets/img/characters/gavin-shadowblade.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Gavin Shadowblade is dour, imposing, and serious. His long face rarely turns up in a smile, and he maintains his expensive clothing with the same fastidious care with which he maintains his hair, beard, nails, and equipment.
 

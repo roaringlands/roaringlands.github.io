@@ -4,8 +4,10 @@ title: Kassoum Yaro
 subtitle: Co-proprietor of The Exalted Forest
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Kassoum Yaro</span>
-
+<div class="position-placeholder" markdown="1">
 ![Kassoum Yaro](/assets/img/characters/kassoum-yaro.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Kassoum Yaro is a tall, round-faced man with an infectious smile and deep belly laugh. He is friendly and outgoing, and has developed friendships throughout [Shadowcrest Vale](/codex/regions/shadowcrest-vale). Kassoum greets everyone who comes into his shop with a genuine smile. Other than his wife, [Melantha](/codex/characters/melantha-yaro), being a merchant is the thing that Kassoum loves most.
 

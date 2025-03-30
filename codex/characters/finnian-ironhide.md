@@ -4,8 +4,10 @@ title: Finnian Ironhide
 subtitle: Leader of Halgrun's Heroes
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Finnian Ironhide</span>
-
+<div class="position-placeholder" markdown="1">
 ![Finnian Ironhide](/assets/img/characters/finnian-ironhide.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Finnian Ironhide is tall for a dwarf, standing around five and a half feet tall. His bushy brown beard and matching hair flow down his chest and back in a perpetually glossy cascade.
 

@@ -4,8 +4,10 @@ title: Vaneiros Oakenpetal
 subtitle: Owner of The Towering Gardens
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Vaneiros Oakenpetal</span>
-
+<div class="position-placeholder" markdown="1">
 ![Vaneiros Oakenpetal](/assets/img/characters/vaneiros-oakenpetal.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Vaneiros Oakenpetal is a massively tall firbolg with long, curly brown hair and a muscular build. He almost always bears a smirk on his broad face.
 
