@@ -64,6 +64,18 @@ layout: null
   border-radius: 0.5rem;
 }
 
+.section-header {
+  height: 4em;
+  color: var(--primaryContrastColor);
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.codex {
+  background-image: url("/assets/img/codex.jpg");
+}
+
 /* OVERRIDE STYLES */
 
 .avatar-img {
