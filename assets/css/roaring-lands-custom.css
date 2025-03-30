@@ -81,24 +81,6 @@ layout: null
 .game-group {background-image: url("/assets/img/group.jpg");}
 .adventure-logs {background-image: url("/assets/img/group-2.jpg");}
 
-
-.ai-img::after {
-  content: "AI";
-	font-family: "Open Sans", Arial, Verdana, sans-serif;
-  position: relative;
-  bottom: 1rem;
-  right: 1rem;
-  font-size: 1rem;
-  width: 100%;
-  height: 4em;
-  color: rgba(255,255,255,0.2);
-  text-shadow:
-    0.07em 0 rgba(0,0,0,0.2),
-    0 0.07em rgba(0,0,0,0.2),
-    -0.07em 0 rgba(0,0,0,0.2),
-    0 -0.07em rgba(0,0,0,0.2);
-}
-
 /* OVERRIDE STYLES */
 
 .avatar-img {
@@ -319,3 +301,17 @@ summary .codex-category{
   background: #000000;
   color: #ffffff;
  }
+
+ .ai-img::after {
+  content: "AI";
+	font-family: "Open Sans", Arial, Verdana, sans-serif;
+  position: relative;
+  left: 0.5rem;
+  top: 0.5rem;
+  font-size: 0.6rem;
+  width: 100%;
+  height: 4em;
+  color: var(--primaryThemeColor);
+  background-color: var(--primaryContrastColor);
+  border: 1px solid var(--primaryThemeColor);
+}
