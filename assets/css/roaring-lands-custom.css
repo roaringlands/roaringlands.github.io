@@ -38,11 +38,6 @@ layout: null
 }
 
 .return-to-codex {
-  position: absolute;
-  top: 2rem;
-  left: 4rem;
-  z-index: 999;
-  border: none;
   outline: none;
   border: 1px solid var(--secondaryThemeColor);
   color: var(--secondaryThemeColor);
