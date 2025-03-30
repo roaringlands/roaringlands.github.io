@@ -4,7 +4,6 @@ title: Prepare for Session 0
 subtitle: Everything potential players need to know before we begin play!
 cover-img: /assets/img/group-2.jpg
 tags: [welcome, prep]
-author: Brent L.
 ---
 
 Welcome to the Roaring Lands!

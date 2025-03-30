@@ -82,6 +82,20 @@ layout: null
 .adventure-logs {background-image: url("/assets/img/group-2.jpg");}
 
 
+.ai-img::after {
+  content: "AI";
+	font-family: "Open Sans", Arial, Verdana, sans-serif;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  color: rgba(255,255,255,0.5);
+  text-shadow:
+    0.07em 0 rgba(0,0,0,0.5),
+    0 0.07em rgba(0,0,0,0.5),
+    -0.07em 0 rgba(0,0,0,0.5),
+    0 -0.07em rgba(0,0,0,0.5);
+}
+
 /* OVERRIDE STYLES */
 
 .avatar-img {
