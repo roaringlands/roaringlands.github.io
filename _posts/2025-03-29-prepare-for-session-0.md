@@ -22,8 +22,11 @@ Our primary inspiration behind this world are [RWBY](https://en.wikipedia.org/wi
 
 ### Game Schedule & Attendance
 
+{: .box-error}
+**Important:** Session Zero will be held on Saturday, April 12, 2025 at 1pm.
+
 {: .box-warning}
-Game sessions will be held on the second and fourth Saturday of each month (time pending), at our home in Liberty.
+Game sessions will be held on the second and fourth Saturday of each month from 1pm to 5pm, at our home in Liberty.
 
 I expect players to attend regularly and to arrive on time. That being said, life happens, and we will understand if you cannot make it one week. Please just let us know as early as possible so I can plan ahead.
 
@@ -33,28 +36,14 @@ We will cancel sessions under only a few conditions:
 
 In all other cases, though we may not progress our campaign story, we will still get together and do something else. This is time we get to spend with friends doing things we like. Let's make the most of it.
 
+If your schedule, ability to commit, etc. changes in the future please let the group know at the beginning of the next session, and we will work together to allow the game to continue. (THE GAME MUST GO ON!)
+
 Finally, if our group decides to handle specific parts of the game, such as respite activities or leveling up, outside of the normally scheduled game session, each player is expected to complete these activities before the next session or lose all benefits that they would have gained.
 
 In other words, be a grown-up about it. If you need help, just ask.
 
-### My Style as a Director
-I believe it's my job to be each of my players' biggest fan. That means that I want you to succeed. It doesn't mean that you won't sometimes fail, or even die. I want to make each session fun, and part of that fun is overcoming challenges.
-
-I also tend to go all-out when I game. You can expect to recieve dice, fun character trinkets, and more as we continue play.
-
-This is a new game system for all of us. I **will** make mistakes. Please be patient with me.
-
-### Player Compact
-Coming soon...
-
-
-### Content Survey
-Coming soon...
-
-
 ### Creating Characters
-Coming soon...
-
+We will create characters in person during session 0.
 
 ### House Rules & Homebrew
 I don't have any house rules or homebrew I'm going to use at the moment. If I come up with some, I'll add it to the [Codex](/codex).
