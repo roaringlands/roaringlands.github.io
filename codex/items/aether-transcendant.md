@@ -4,7 +4,7 @@ title: Transcendant Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Transcendant Aether</span>
 
-![Transcendant Aether](/assets/img/items/aether-transcendant.jpeg){: .mx-auto.d-block :}
+![Transcendant Aether](/assets/img/items/aether-transcendant.jpg){: .mx-auto.d-block :}
 
 This disc of crystallized magic is invaluable. Only a few dozen of this Aether have ever been reported.
 

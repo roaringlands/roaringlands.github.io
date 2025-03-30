@@ -4,7 +4,7 @@ title: Silver Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Silver Aether</span>
 
-![Silver Aether](/assets/img/items/aether-silver.jpeg){: .mx-auto.d-block :}
+![Silver Aether](/assets/img/items/aether-silver.jpg){: .mx-auto.d-block :}
 
 This disc of crystallized magic acts as currency, having one of these can temporarily raise your Wealth to 3, if your base Wealth is less than 3.
 

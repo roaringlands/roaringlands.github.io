@@ -4,7 +4,7 @@ title: Gold Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Gold Aether</span>
 
-![Gold Aether](/assets/img/items/aether-gold.jpeg){: .mx-auto.d-block :}
+![Gold Aether](/assets/img/items/aether-gold.jpg){: .mx-auto.d-block :}
 
 This disc of crystallized magic acts as currency, having one of these can temporarily raise your Wealth to 4, if your base Wealth is less than 4.
 

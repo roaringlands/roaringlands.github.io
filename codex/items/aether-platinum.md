@@ -4,7 +4,7 @@ title: Platinum Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Platinum Aether</span>
 
-![Platinum Aether](/assets/img/items/aether-platinum.jpeg){: .mx-auto.d-block :}
+![Platinum Aether](/assets/img/items/aether-platinum.jpg){: .mx-auto.d-block :}
 
 This disc of crystallized magic acts as currency, having one of these can temporarily raise your Wealth to 5, if your base Wealth is less than 5.
 

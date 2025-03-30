@@ -4,7 +4,7 @@ title: Copper Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Copper Aether</span>
 
-![Copper Aether](/assets/img/items/aether-copper.jpeg){: .mx-auto.d-block :}
+![Copper Aether](/assets/img/items/aether-copper.jpg){: .mx-auto.d-block :}
 
 This disc of crystallized magic acts as currency, having one of these can temporarily raise your Wealth to 2, if your base Wealth is less than 2.
 

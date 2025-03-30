@@ -4,7 +4,7 @@ title: Healing Salve
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Healing Salve</span>
 
-![Healing Salve](/assets/img/items/healing-salve.jpeg){: .mx-auto.d-block :}
+![Healing Salve](/assets/img/items/healing-salve.jpg){: .mx-auto.d-block :}
 
 This tin is filled with a yellow paste. The paste gives off a strong medicinal scent. When applied to minor injuries, they will rapidly heal.
 
