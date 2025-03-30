@@ -4,8 +4,10 @@ title: Underground Lake
 subtitle: A nighttime market where street vendors sell their wares
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Underground Lake</span>
-
+<div class="position-placeholder" markdown="1">
 ![Underground Lake](/assets/img/regions/underground-lake.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Hidden deep beneath the teeming surface of the [Arajaale Tropics](/codex/regions/arajaale-tropics), concealed from the prying eyes of the world above, lies a subterranean wonder—a vast underground lake, untouched by the passage of time. Here, in the silent depths of the earth, the only illumination comes from two sources: the faint, filtered light that trickles down from a small collapsed hole far above, and the soft, ethereal glow of lichen that clings to the rocky walls.
 

@@ -3,8 +3,10 @@ layout: page
 title: Transcendant Aether
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Transcendant Aether</span>
-
+<div class="position-placeholder" markdown="1">
 ![Transcendant Aether](/assets/img/items/aether-transcendant.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 This disc of crystallized magic is invaluable. Only a few dozen of this Aether have ever been reported.
 

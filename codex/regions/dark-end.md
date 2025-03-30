@@ -4,8 +4,10 @@ title: Dark End
 subtitle: A haven for the lawless and downtrodden
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Dark End</span>
-
+<div class="position-placeholder" markdown="1">
 ![Dark End](/assets/img/regions/dark-end.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Dark End exists as a labyrinthine maze of twisting alleys and shadowed pathways, where the dense foliage of the magical jungle casts a perpetual gloom over the landscape. Here, amidst the oppressive darkness, the buildings are constructed almost exclusively from wood, their structures overrun with creeping vines and tangled foliage that obscure the sunlight and lend an air of decay to the surroundings.
 

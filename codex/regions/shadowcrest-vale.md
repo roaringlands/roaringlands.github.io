@@ -3,8 +3,10 @@ layout: page
 title: Shadowcrest Vale
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Shadowcrest Vale</span>
-
+<div class="position-placeholder" markdown="1">
 ![Shadowcrest Vale](/assets/img/regions/shadowcrest_vale_portrait.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Shadowcrest Vale, a city-state nestled within the heart of a the Arajaale Tropics teeming with magic, stands as a testament to nature’s resilience and the ingenuity of its inhabitants. At its center lies the eponymous capital city, Shadowcrest Vale, a thriving metropolis where civilization harmonizes with the wild forces that surround it.
 

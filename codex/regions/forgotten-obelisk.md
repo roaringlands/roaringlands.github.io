@@ -4,8 +4,10 @@ title: Forgotten Obelisk
 subtitle: A relic of a long-lost civilization
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Forgotten Obelisk</span>
-
+<div class="position-placeholder" markdown="1">
 ![Forgotten Obelisk](/assets/img/regions/forgotten-obelisk.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Deep within the heart of the dense, untamed jungles of the [Arajaale Tropics](/codex/regions/arajaale-tropics) lies a forgotten relic of a forgotten time—a stone obelisk, standing tall and proud amidst the verdant foliage that surrounds it. Covered in a thick blanket of vines and moss, the obelisk seems almost a part of the natural landscape, its weathered surface blending seamlessly with the ancient trees and tangled undergrowth that encircle it.
 

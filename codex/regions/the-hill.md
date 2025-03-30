@@ -4,8 +4,10 @@ title: The Hill
 subtitle: The haven for the middle-class
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / The Hill</span>
-
+<div class="position-placeholder" markdown="1">
 ![The Hill](/assets/img/regions/the-hill.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 The Hill rises proudly to the south of the [Upper Ward](/codex/regions/upper-ward), offering a picturesque vista of the city below. As a transitional zone between the opulence of the [Upper Ward](/codex/regions/upper-ward) and the more modest districts beyond, The Hill serves as a haven for those who are connected to the nobility but lack the wealth and influence to reside in the upper echelons of society.
 

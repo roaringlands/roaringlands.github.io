@@ -4,8 +4,10 @@ title: Lost Ziggurat
 subtitle: A hidden trove lost to time
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Lost Ziggurat</span>
-
+<div class="position-placeholder" markdown="1">
 ![Lost Ziggurat](/assets/img/regions/lost-ziggurat.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Deep within the [Arajaale Tropics](/codex/regions/arajaale-tropics), obscured by centuries of growth and forgotten by time, lies a relic of a bygone era—the lost ziggurat. Rising majestically from the dense foliage, its once grand facade now obscured by a thick shroud of moss and creeping vines, the ziggurat stands as a silent sentinel, guarding its secrets from prying eyes.
 

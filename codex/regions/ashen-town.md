@@ -4,8 +4,10 @@ title: Ashen Town
 subtitle: A testament to resilience
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Ashen Town</span>
-
+<div class="position-placeholder" markdown="1">
 ![Ashen Town](/assets/img/regions/ashen-town.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Ashen Town stands as a testament to the indomitable spirit of its inhabitants in the face of adversity. Situated just across the river from [Market Town](/codex/regions/market-town), this storied district bears the scars of a tragic fire that ravaged its streets nearly a century ago, leaving behind faint reminders of its tumultuous past etched into the blackened cobblestones.
 

@@ -4,8 +4,10 @@ title: Summershield Village
 subtitle: An idyllic village nestled in the jungle
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Summershield Village</span>
-
+<div class="position-placeholder" markdown="1">
 ![Summershield Village](/assets/img/regions/summershield-village.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Nestled deep within the lush embrace of the [Arajaale Tropics](/codex/regions/arajaale-tropics), Summershield village flourishes amidst the verdant foliage—a tranquil haven where time seems to stand still and the rhythms of nature dictate the pace of life. Surrounded by towering trees and vibrant greenery, the village exudes an air of serenity and harmony, as if it is in perfect balance with its wild surroundings.
 

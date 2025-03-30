@@ -4,8 +4,10 @@ title: Market Town
 subtitle: The economic center of Shadowcrest Vale
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Market Town</span>
-
+<div class="position-placeholder" markdown="1">
 ![Market Town](/assets/img/regions/market-town.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Market Town stands as the vibrant heart of commerce and trade within the city. Nestled between the tranquil river to the south and the lively streets of [The Hill](/codex/regions/the-hill) to the north, Market Town pulses with the energy of merchants, traders, and shoppers bustling about their daily business.
 

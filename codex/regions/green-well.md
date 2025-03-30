@@ -3,8 +3,10 @@ layout: page
 title: Green Well
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Green Well</span>
-
+<div class="position-placeholder" markdown="1">
 ![Green Well](/assets/img/regions/green-well.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Green Well exudes an aura of mystique and tranquility amidst the bustling city. Situated just southeast of the [Upper Ward](/codex/regions/upper-ward), this district serves as a verdant haven where nature’s embrace is celebrated and revered.
 

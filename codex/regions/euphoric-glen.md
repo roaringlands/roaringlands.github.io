@@ -4,8 +4,10 @@ title: Euphoric Glen
 subtitle: A place of supernatural peace and joy
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / Euphoric Glen</span>
-
+<div class="position-placeholder" markdown="1">
 ![Euphoric Glen](/assets/img/regions/euphoric-glen.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Deep within the heart of the [Arajaale Tropics](/codex/regions/arajaale-tropics) lies a hidden gem—an expansive glade, shrouded by towering trees and lush vegetation. The glade appears unassuming at first glance, blending seamlessly into the surrounding greenery. But those who venture into its midst find themselves enveloped in an atmosphere of enchantment.
 

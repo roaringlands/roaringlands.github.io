@@ -4,8 +4,10 @@ title: The Exalted Forest
 subtitle: An marketplace for supernatural goods
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / [Market Town](/codex/regions/market-town) / [The Arcane Exchange](/codex/regions/the-arcane-exchange) / The Exalted Forest</span>
-
+<div class="position-placeholder" markdown="1">
 ![The Exalted Forest](/assets/img/regions/the-exalted-forest.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 The exalted forest is a specialized shop catering primarily to [Awakened](/codex/the-awakened) in [Shadowcrest Vale](/codex/regions/shadowcrest-vale). Run by [Kassoum Yaro](/codex/characters/kassoum-yaro) and his wife, [Melantha Yaro](/codex/characters/melantha-yaro), the Exalted Forest has the best selection of rare and valuable magical artifacts in the [Arcane Exchange](/codex/regions/the-arcane-exchange).
 

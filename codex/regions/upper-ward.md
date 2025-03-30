@@ -4,8 +4,10 @@ title: The Upper Ward
 subtitle: A ward in Shadowcrest Vale
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / The Upper Ward</span>
-
+<div class="position-placeholder" markdown="1">
 ![The Upper Ward](/assets/img/regions/upper-ward.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 The Upper Ward of Shadowcrest Vale is a realm of opulence and privilege, where the elite of society dwell amidst the splendor of the Duke’s fortress and the lavish estates that dot the landscape. Perched atop a towering natural outcropping, the Duke’s stronghold commands a commanding view of the city below, its formidable walls of polished green marble standing as a testament to both its power and prestige.
 

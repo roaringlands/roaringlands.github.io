@@ -4,8 +4,10 @@ title: Misty Ford
 subtitle: A rural community at the edge of civilization
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / [Arajaale Tropics](/codex/regions/arajaale-tropics) / [Shadowcrest Vale](/codex/regions/shadowcrest-vale) / Misty Ford</span>
-
+<div class="position-placeholder" markdown="1">
 ![Misty Ford](/assets/img/regions/misty-ford.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Misty Ford, the newest of [Shadowcrest Vale](/codex/regions/shadowcrest-vale)’s wards, lies nestled against the gentle embrace of the river, its boundaries blending seamlessly with the untamed wilderness that surrounds it. Situated on the outskirts of town and just across the river from [Ashen Town](/codex/regions/ashen-town), Misty Ford is a realm of mist-shrouded forests and ethereal beauty, where the boundaries between civilization and nature blur and intertwine.
 

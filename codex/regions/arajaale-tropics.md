@@ -3,8 +3,10 @@ layout: page
 title: Arajaale Tropics
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Arajaale Tropics</span>
-
+<div class="position-placeholder" markdown="1">
 ![Arajaale Tropics](/assets/img/regions/arajaale-tropics.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 The Arajaale Tropics are a sprawling valley filled with lush, verdant jungle that stretches as far as the eye can see. The air is thick with humidity, carrying the scents of exotic flora and the sounds of vibrant wildlife. This is a place where the ordinary meets the extraordinary, where the mundane is tinged with magic.
 

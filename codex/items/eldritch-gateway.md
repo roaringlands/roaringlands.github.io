@@ -3,8 +3,10 @@ layout: page
 title: Eldritch Gateway
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Eldritch Gateway</span>
-
+<div class="position-placeholder" markdown="1">
 ![Eldritch Gateway](/assets/img/items/eldritch-gateway.jpg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
+</div>
 
 Eldritch Gateways, revered marvels of arcane engineering, are mystical teleportation devices meticulously crafted to traverse the vast expanses of the realms within a predetermined network. These gateways serve as conduits between designated nodes, allowing the swift transport of individuals and objects across great distances with unparalleled efficiency.
 
