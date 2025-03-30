@@ -25,7 +25,7 @@ Despite these serious concerns, it is impossible to deny that proponents of gene
 1. **Shortened Timelines:** Many proponents of generative AI cite lengthy timelines and wait periods for commissioned content. While these wait times are understandable, it is often difficult to find a professional who has the availability to create the content you need in the timeframe in which you need it.
 
 ## My Commitments Regarding Generative AI
-1. **No Profit:** I promise that, if I attempt to make money in **any** way, I will not use content created using generative AI in the product, marketing, etc.
+1. **No Profit:** I promise that, if I ever attempt to make money in **any** way on this project, I will not use content created using generative AI in the product, marketing, etc.
 1. **Credit Wherever Possible:** I promise to credit the creators who contribute to or inspire my work.
 1. **Identify AI Created Content:** I promise that any AI generated content will be clearly marked as AI generated, either on the content itself, or at the bottom of a page with that content.
 1. **Honor Removal Requests:** If your content was not credited correctly, was used without permission, or clearly acted as a key source for any AI generated content, I will gladly take that content down immediately! Just let me know!
