@@ -4,6 +4,8 @@ title: The Roaring Lands
 before-content: back-to-codex.html
 ---
 
+... [Codex](/codex) / The Roaring Lands
+
 The Roaring Lands are home to the the Rabid, a wandering host of creatures that appear at seeming random and attack any sign of civilization they encounter. The Rabid aren’t the only creatures to call The Roaring Lands home. All kinds of peoples live all across the Roaring Lands. These peoples live and thrive despite the near-constant threat of the Rabid. After all, life always finds a way.
 
 Much of the prejudice and distrust that exists between the races in other worlds does not exist here. Instead, if your neighbor is a Bugbear, that is likely to be good for you, since Bugbears tend to be bigger and have greater reach than a Gnome. That said, against most Rabid, no amount of reach or normal physical prowess will be enough.
