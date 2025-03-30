@@ -72,8 +72,8 @@ layout: null
   font-size: 3em;
   padding: 0.5em;
   line-height: 1em;
-  text-shadow: 1px 1px #000;
-
+  text-shadow: 0.25rem 0.25rem #000;
+  border-radius: 0.5rem;
 }
 
 .codex {background-image: url("/assets/img/codex.jpg");}
