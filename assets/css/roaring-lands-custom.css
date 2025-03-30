@@ -32,7 +32,7 @@ layout: null
 }
 
 #myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
+  background-color: var(--primaryThemeColor); /* Add a dark-grey background on hover */
 }
 
 /* OVERRIDE STYLES */
