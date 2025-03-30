@@ -2,6 +2,7 @@
 layout: page
 title: Codex
 subtitle: Learn about the world
+cover-img: /assets/img/codex.jpg
 ---
 
 The codex is where you can learn more about the Roaring Lands.
