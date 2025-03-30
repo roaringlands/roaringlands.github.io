@@ -2,7 +2,7 @@
 layout: post
 title: Our Use of Generative AI
 subtitle: Why would you do something so evil?!?
-cover-img: /assets/img/evil-ai.jpg
+cover-img: /assets/img/posts/evil-ai.jpg
 tags: [generative ai]
 ---
 
