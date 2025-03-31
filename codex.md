@@ -84,5 +84,5 @@ The codex is where you can learn more about the Roaring Lands.
 - <span class="redacted" markdown="1">[Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)</span><span class="status-pill pill-enemy">enemy</span>
 
 ### House Rules & Homebrew {#homebrew}
-- [Perk: Loot Monster](/codex/homebrew/loot-monster)<span class="status-pill pill-new-rule">New Perk</span>
+- [Perk: Loot Rabid](/codex/homebrew/loot-rabid)<span class="status-pill pill-new-rule">New Perk</span>
 - [Perk: Ritualist](/codex/homebrew/ritualist)<span class="status-pill pill-changed-rule">Changed Perk</span>
