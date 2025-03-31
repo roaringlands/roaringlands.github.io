@@ -202,7 +202,6 @@ summary .codex-category {
 .ds-ability {
     margin: 1rem 0;
     padding-bottom: 1.5rem;
-    background: var(--primaryThemeColor);
     --aug-border-bg: var(--primaryThemeColor);
   }
   
@@ -219,7 +218,6 @@ summary .codex-category {
     margin: 0;
     width: 100%;
     font-size: 0.85rem;
-    background-color: var(--transparentPrimaryThemeColor);
     color: var(--primaryContrastColor);
     padding: 0.25rem 1rem;
   }
