@@ -10,4 +10,4 @@ title: Transcendant Aether
 
 This disc of crystallized magic is invaluable. Only a few dozen of this Aether have ever been reported.
 
-A creature can eat this item to gain benefits unique to each coin. Once consumed, no other Transcendent Aether may be consumed by that creature. Any attempt to consume another Transcendent Aether will instantly destroy the creature.
+A creature can eat this item to gain benefits unique to each Transcendant Aether. Once consumed, no other Transcendent Aether may ever be consumed by that creature. Any attempt to consume another Transcendent Aether will instantly destroy the creature.
