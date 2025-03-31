@@ -3,6 +3,7 @@ layout: page
 title: Loot Monster
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Loot Monster</span>
+
 **Perk Category:** Crafting, Supernatural
 
 When you kill a [Rabid](/codex/the-rabid) you can magically loot their corpse. You gain the following triggered action.

@@ -3,6 +3,7 @@ layout: page
 title: Ritualist
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Ritualist</span>
+
 **Perk Category:** Supernatural
 
 {: .box-note}
