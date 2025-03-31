@@ -9,4 +9,8 @@ title: Copper Aether
 </div>
 This disc of crystallized magic acts as currency, having one of these can temporarily raise your Wealth to 2, if your base Wealth is less than 2.
 
-A creature lower than Copper Tier can eat this item to gain 3x tier difference surges each turn for 12 seconds. For the following 1x Rank Difference hours, using any magical consumable deals 1d10+1 Copper damage, which cannot be reduced or avoided, and cannot kill the creature. The consumable has no other effect.
+A creature lower than the Tier of this item can consume this Aether to gain surges each turn for 12 seconds, as shown on the Aether Surges Table. For a short time after consuming any Aether using a magical consumable deals deals damage as shown on the table below, which cannot be reduced or avoided, and has no other effect.
+
+| Tier | Surges | Cooldown | Damage |
+| --- | --- | --- | --- |
+| Normal | 3 | 1 Hour | 1d10 + 1 |

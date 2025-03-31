@@ -97,10 +97,10 @@ layout: null
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   text-shadow:
-  0.09em 0 black,
-  0 0.09em black,
-  -0.09em 0 black,
-  0 -0.09em black;
+  0.15em 0 black,
+  0 0.15em black,
+  -0.15em 0 black,
+  0 -0.15em black;
 }
 
 .navbar-custom {
