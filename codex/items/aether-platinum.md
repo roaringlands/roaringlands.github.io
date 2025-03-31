@@ -17,7 +17,7 @@ If you are of Platinum Tier, consuming this Aether has no effect.
 
 | Tier | Surges | Cooldown | Damage |
 | --- | --- | --- | --- |
-| Normal | 12 | 8 Hours | 8d10 + 8 |
-| Copper | 6 | 4 Hours | 4d10 + 4 |
-| Silver | 4 | 2 Hours | 2d10 + 2 |
-| Gold | 3 | 1 Hour | 1d10 + 1 |
+| Normal | 12 | 10 Minutes | 8d10 + 8 |
+| Copper | 6 | 5 Minutes | 4d10 + 4 |
+| Silver | 4 | 2 Minutes | 2d10 + 2 |
+| Gold | 3 | 1 Minute | 1d10 + 1 |

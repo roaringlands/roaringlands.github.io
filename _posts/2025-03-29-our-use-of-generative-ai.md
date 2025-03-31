@@ -6,7 +6,7 @@ cover-img: /assets/img/posts/evil-ai.jpg
 tags: [generative ai]
 ---
 
-The use of generative AI is an incredibly divisive issue. It's also one which I belive is more nuanced than the hardcore proponents of either extreme want to acknowledge.
+The use of generative AI is an incredibly divisive issue. It's also one which I belive is more nuanced than the hardcore proponents on either extreme want to acknowledge.
 
 In the below article, I will outline a few of the major arguments against generative AI, for it, and then describe the commitment I make regarding my uses of this technology.
 
@@ -20,7 +20,7 @@ In all of my research regarding generative AI, I've uncovered a few key issues t
 ## Why Generative AI is Useful
 Despite these serious concerns, it is impossible to deny that proponents of generative AI have some good points to make.
 1. **Ubiquity:** Generative AI has become increasingly ubiquitous across all technological platforms. Any web search begins with an AI summary of the search results, even professional tools like those created by Adobe are integrating generative AI tools. It is virtually impossible to avoid generative AI, and stubbornly acting as if generative AI doesn't exist won't help anyone.
-1. **Low Cost:** Generative AI is far, far cheaper than trying to hire a professional to create content. This can be a very compelling point for many people.
+1. **Low Cost:** Generative AI is far, far cheaper than trying to hire a professional to create content. This can be a very compelling point for many people, especially when both the budget and expected return on a project is $0.
 1. **Specificity:** When using generative AI it is easy to get exactly what you hope to get, with more ease and precision than is possible short of commissioning specific artworks.
 1. **Shortened Timelines:** Many proponents of generative AI cite lengthy timelines and wait periods for commissioned content. While these wait times are understandable, it is often difficult to find a professional who has the availability to create the content you need in the timeframe in which you need it.
 

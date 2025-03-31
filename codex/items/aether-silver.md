@@ -17,5 +17,5 @@ If you are of Silver Tier or higher, consuming this Aether has no effect.
 
 | Tier | Surges | Cooldown | Damage |
 | --- | --- | --- | --- |
-| Normal | 4 | 2 Hours | 2d10 + 2 |
-| Copper | 3 | 1 Hour | 1d10 + 1 |
+| Normal | 4 | 2 Minutes | 2d10 + 2 |
+| Copper | 3 | 1 Minute | 1d10 + 1 |

@@ -304,6 +304,14 @@ summary .codex-category {
   background: #000000;
   color: #ffffff;
  }
+ .pill-new-rule {
+  background: rgb(44, 135, 255);
+  color: #fff;
+ }
+ .pill-changed-rule {
+  background: rgb(255, 162, 0);
+  color: #fff;
+ }
 
 .position-placeholder {position: relative;}
 

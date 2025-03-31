@@ -13,6 +13,7 @@ The codex is where you can learn more about the Roaring Lands.
 - [Organizations](#organizations)
 - [Items & Technologies](#items)
 - [Allies & Enemies](#characters)
+- [House Rules & Homebrew](#homebrew)
 
 ### Basic Lore {#basic-lore}
 - [The Roaring Lands](/codex/the-roaring-lands)
@@ -81,3 +82,7 @@ The codex is where you can learn more about the Roaring Lands.
 - <span class="redacted" markdown="1">[Trisileth Erebor](/codex/characters/trisileth-erebor)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)</span><span class="status-pill pill-enemy">enemy</span>
+
+### House Rules & Homebrew {#homebrew}
+- [Perk: Loot Monster](/codex/homebrew/loot-monster)<span class="status-pill pill-new-rule">New Perk</span>
+- [Perk: Ritualist](/codex/homebrew/ritualist)<span class="status-pill pill-changed-rule">Changed Perk</span>
