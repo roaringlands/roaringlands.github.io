@@ -52,7 +52,7 @@ The codex is where you can learn more about the Roaring Lands.
     - <span class="redacted" markdown="1">[Forgotten Obelisk](/codex/regions/forgotten-obelisk)</span>
 
 ### Organizations {#organizations}
-- [Global Mercenaries Guild](/codex/global-mercenaries-guild)
+- [Adventuerer's Society](/codex/adventurers-society)
 - <span class="redacted" markdown="1">[Slognoth Eldritch Supplies](/codex/slognoth-eldritch-supplies)</span>
 
 ### Items & Technologies {#items}
