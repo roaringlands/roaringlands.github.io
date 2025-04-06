@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trisileth Erebor
-subtitle: Agent for the Global Mercenaries Guild
+subtitle: Agent for the Adventurer's Society
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Trisileth Erebor</span>
 <div class="position-placeholder" markdown="1">
