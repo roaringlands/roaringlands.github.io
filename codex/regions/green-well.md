@@ -12,7 +12,7 @@ Green Well exudes an aura of mystique and tranquility amidst the bustling city. 
 
 The defining feature of Green Well is its namesake: a natural spring that wells forth from the earth, its waters imbued with a vibrant green hue by the magical energies that suffuse the land. Surrounded by a lush canopy of towering trees and verdant foliage, the Green Well serves as a focal point for the ward, drawing residents and visitors alike to its tranquil shores.
 
-Unlike the polished marble and imposing architecture of the [Upper Ward](/codex/regions/upper-ward), Green Well boasts a more rustic charm, with buildings constructed from weathered stone and reclaimed wood blending seamlessly with the natural landscape. Narrow cobblestone streets wind their way through the district, lined with quaint cottages and charming storefronts that offer a variety of artisanal goods and locally sourced produce.
+Unlike the polished marble and imposing architecture of the <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>, Green Well boasts a more rustic charm, with buildings constructed from weathered stone and reclaimed wood blending seamlessly with the natural landscape. Narrow cobblestone streets wind their way through the district, lined with quaint cottages and charming storefronts that offer a variety of artisanal goods and locally sourced produce.
 
 At the heart of Green Well lies a bustling marketplace, where vendors peddle a colorful array of fruits, vegetables, and herbs harvested from the surrounding countryside. Here, the scent of freshly baked bread mingles with the earthy aroma of spices, creating a sensory tapestry that delights the senses and beckons passersby to linger awhile.
 
