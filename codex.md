@@ -23,16 +23,16 @@ The codex is where you can learn more about the Roaring Lands.
 - [The Rabid](/codex/the-rabid)
 
 ### Regions & Places {#regions}
-- [Arajaale Tropics](/codex/regions/arajaale-tropics)
-    - [Shadowcrest Vale](/codex/regions/shadowcrest-vale)
+- <span class="redacted" markdown="1">[Arajaale Tropics](/codex/regions/arajaale-tropics)</span>
+    - <span class="redacted" markdown="1">[Shadowcrest Vale](/codex/regions/shadowcrest-vale)</span>
         - <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>
             - <span class="redacted" markdown="1">[The Emerald Gardens](/codex/regions/the-emerald-gardens)</span>
             - <span class="redacted" markdown="1">[The Golden Chalice](/codex/regions/the-golden-chalice)</span>
             - <span class="redacted" markdown="1">[The Ivory Tower](/codex/regions/the-ivory-tower)</span>
         - <span class="redacted" markdown="1">[The Hill](/codex/regions/the-hill)</span>
             - <span class="redacted" markdown="1">[The Artisan's Plaza](/codex/regions/the-artisans-plaza)</span>
-        - [Green Well](/codex/regions/green-well)
-            - [The Towering Gardens](/codex/regions/the-towering-gardens)
+        - <span class="redacted" markdown="1">[Green Well](/codex/regions/green-well)</span>
+            - <span class="redacted" markdown="1">[The Towering Gardens](/codex/regions/the-towering-gardens)</span>
         - <span class="redacted" markdown="1">[Misty Ford](/codex/regions/misty-ford)</span>
             - <span class="redacted" markdown="1">[The Feywild Market](/codex/regions/the-feywild-market)</span>
         - <span class="redacted" markdown="1">[Market Town](/codex/regions/market-town)</span>
@@ -80,7 +80,7 @@ The codex is where you can learn more about the Roaring Lands.
 - <span class="redacted" markdown="1">[Talia Trask](/codex/characters/talia-trask)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Thal'kor the Bone Lord](/codex/characters/thalkor-the-bone-lord)</span><span class="status-pill pill-enemy">enemy</span>
 - <span class="redacted" markdown="1">[Trisileth Erebor](/codex/characters/trisileth-erebor)</span><span class="status-pill pill-neutral">Neutral</span>
-- [Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)<span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)</span><span class="status-pill pill-enemy">enemy</span>
 
 ### House Rules & Homebrew {#homebrew}
