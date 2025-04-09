@@ -24,4 +24,4 @@ In Green Well, the rhythms of nature and the pulse of city life intertwine, crea
 
 ## Key Locations
 
-- <span class="redacted" markdown="1">[The Towering Gardens](/codex/regions/the-towering-gardens)</span>
+- [The Towering Gardens](/codex/regions/the-towering-gardens)
