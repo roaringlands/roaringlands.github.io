@@ -22,10 +22,10 @@ Yet, for all its natural splendor, Shadowcrest Vale is not without its challenge
 
 
 ## City Wards
-- <span class="redacted" markdown="1">[[Upper Ward]](/codex/regions/upper-ward)</span>
-- <span class="redacted" markdown="1">[[The Hill]](/codex/regions/the-hill)</span>
-- [[Green Well]](/codex/regions/green-well)
-- <span class="redacted" markdown="1">[[Misty Ford]](/codex/regions/misty-ford)</span>
-- <span class="redacted" markdown="1">[[Market Town]](/codex/regions/market-town)</span>
-- <span class="redacted" markdown="1">[[Ashen Town]](/codex/regions/ashen-town)</span>
-- <span class="redacted" markdown="1">[[Dark End]](/codex/regions/dark-end)</span>
+- <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>
+- <span class="redacted" markdown="1">[The Hill](/codex/regions/the-hill)</span>
+- [Green Well](/codex/regions/green-well)
+- <span class="redacted" markdown="1">[Misty Ford](/codex/regions/misty-ford)</span>
+- <span class="redacted" markdown="1">[Market Town](/codex/regions/market-town)</span>
+- <span class="redacted" markdown="1">[Ashen Town](/codex/regions/ashen-town)</span>
+- <span class="redacted" markdown="1">[Dark End](/codex/regions/dark-end)</span>
