@@ -14,7 +14,7 @@ The city’s defining feature is its location within the enchanted jungle, suffu
 
 Divided by a mighty river that has carved a deep furrow through the landscape, Shadowcrest Vale’s urban sprawl is a study in contrast. On either side of the waterway, the city rises and falls with the natural contours of the land, its buildings perched atop craggy outcroppings and verdant hillsides alike. This division lends a sense of stratification to the city, with districts of varying elevation each possessing its own unique character and atmosphere.
 
-![Shadowcrest Vale Wards](/assets/img/regions/shadowcrest-vale-map-legend.jpeg){: .mx-auto.d-block :}
+![Shadowcrest Vale Wards](/assets/img/regions/shadowcrest-vale-wards.jpeg){: .mx-auto.d-block :}
 
 Within the embrace of Shadowcrest Vale’s seven wards, each district boasts its own distinctive ambiance and architectural style, reflecting the diverse heritage and culture of its inhabitants. From the bustling markets of Market Town to the opulent estates of the Upper Ward, every corner of the city pulsates with life and energy, united by the shared bond of living amidst the magic of the jungle.
 
