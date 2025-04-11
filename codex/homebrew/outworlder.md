@@ -52,7 +52,8 @@ The fire popped, sending up a flurry of sparks.
 
 “You think we’ll see more?” he asked.
 
-Talia watched the flames. “I think the cracks in the world are getting wider. So maybe.”</div>
+Talia watched the flames. “I think the cracks in the world are getting wider. So maybe.”
+</div>
 
 ## Outworlder Traits
 Outworlder heroes have access to the following traits.
