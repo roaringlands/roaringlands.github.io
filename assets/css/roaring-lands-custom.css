@@ -369,7 +369,7 @@ summary .codex-category {
 
 .download-file:hover {
   text-decoration: none;
-  box-shadow: 2px 2px 2px black;
+  box-shadow: 1px 0 2px rgba(0,0,0,0.5);
 }
 
 .download-file .download-icon {

@@ -159,6 +159,7 @@ site-css:
 # - href = "https://unpkg.com/augmented-ui@2/augmented-ui.min.css">
  - "https://unpkg.com/augmented-ui@2/augmented-ui.min.css"
  - "/assets/css/roaring-lands-custom.css"
+ - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 site-js:
