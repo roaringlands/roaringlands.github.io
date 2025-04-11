@@ -4,7 +4,7 @@ title: Outworlder
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Outworlder</span>
 
-<i markdown="1">The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.
+<div class="story-text" markdown="1">The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.
 
 “You ever met one?” Korin asked, eyes fixed on a pale constellation that flickered like a wound in the sky.
 
@@ -52,7 +52,7 @@ The fire popped, sending up a flurry of sparks.
 
 “You think we’ll see more?” he asked.
 
-Talia watched the flames. “I think the cracks in the world are getting wider.”</i>
+Talia watched the flames. “I think the cracks in the world are getting wider.”</div>
 
 ## Outworlder Traits
 Outworlder heroes have access to the following traits.

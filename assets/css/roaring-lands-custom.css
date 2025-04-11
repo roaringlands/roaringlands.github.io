@@ -342,3 +342,9 @@ summary .codex-category {
   border-radius: 0.25rem;
   text-shadow: none;
 }
+
+/*story text*/
+.story-text {
+  font-style: italic;
+  padding-left: 1rem;
+}
