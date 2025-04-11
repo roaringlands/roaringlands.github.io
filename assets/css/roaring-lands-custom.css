@@ -378,7 +378,6 @@ summary .codex-category {
   color: var(--primaryContrastColor);
   display: inline-block;
   height: 100%;
-  rotate: 180deg;
 }
 
 .download-file .download-text {
