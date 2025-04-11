@@ -1,0 +1,46 @@
+{
+	"id": "8uybTOdeIZYjC9TH",
+	"name": "Loot Rabid",
+	"description": "When you kill a Rabid you can magically loot their corpse. You gain the following triggered action.",
+	"type": "Ability",
+	"data": {
+		"ability": {
+			"id": "mVqKQrUSOZyOx8ba",
+			"name": "Loot Rabid",
+			"description": "You touch a dead Rabid and magically gain loot.",
+			"type": {
+				"usage": "Maneuver",
+				"free": false,
+				"trigger": "",
+				"time": "",
+				"qualifiers": []
+			},
+			"keywords": [
+				"Magic"
+			],
+			"distance": [
+				{
+					"type": "Melee",
+					"value": 1,
+					"value2": 0,
+					"within": 0,
+					"special": "",
+					"qualifier": ""
+				}
+			],
+			"target": "Any Dead Rabid in Range",
+			"cost": 0,
+			"repeatable": false,
+			"minLevel": 1,
+			"preEffect": "",
+			"powerRoll": null,
+			"test": null,
+			"effect": "Touch any Rabid corpse you or a willing ally killed within range. The touched corpses vanish in a wave of noxious smoke. The Director grants you loot appropriate to the type and tier of any Rabid looted.\n\nYou may choose to delay the resolution of this ability's effect for as long as 2 turns.",
+			"strained": "",
+			"alternateEffects": [],
+			"spend": [],
+			"persistence": []
+		}
+	},
+	"list": "Supernatural"
+}

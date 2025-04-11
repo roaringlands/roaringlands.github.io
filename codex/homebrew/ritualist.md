@@ -4,6 +4,8 @@ title: Ritualist
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Ritualist</span>
 
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Ritualist.drawsteel-perk"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Perk for Forge Steel</span></a></div>
+
 **Perk Category:** Supernatural
 
 {: .box-note}

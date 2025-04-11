@@ -6,7 +6,6 @@ title: Outworlder
 
 <div class="download-container"><a class="download-file" href="/assets/forge-steel/Outworlder.drawsteel-ancestry"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Ancestry for Forge Steel</span></a></div>
 
-
 <div class="story-text" markdown="1">The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.
 
 “You ever met one?” Korin asked, eyes fixed on a pale constellation that flickered like a wound in the sky.
