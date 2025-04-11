@@ -2,8 +2,57 @@
 layout: page
 title: Outworlder
 ---
+<span class="breadcrumbs" markdown="1">... [Codex](/codex) / Outworlder</span>
 
-> Story Text
+The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.
+
+“You ever met one?” Korin asked, eyes fixed on a pale constellation that flickered like a wound in the sky.
+
+Talia glanced up from her whetstone. “One what?”
+
+“An outworlder.”
+
+She stopped sharpening. “Once. Years ago. Looked like any other fool with a sword, but the way he spoke… like the world didn’t make sense to him. Kept asking questions no one else would bother to ask.”
+
+Korin turned toward her. “What kind of questions?”
+
+“Things like why the Rabid are drawn to magic. Why we measure strength in tiers. Why we grow stronger by killing Rabid.” She tossed a twig into the fire and watched it curl into ash. “He wasn’t trying to be clever. He just didn’t know the rules.”
+
+Korin was quiet a moment. Then, “So where do they come from?”
+
+“No one really knows,” Talia said. “Some say the stars. Others say they fall through cracks in the world, places where reality’s worn thin. One day they just appear — dazed, confused, and often naked.”
+
+Korin snorted. “Sounds like half the initiates we train.”
+
+She smiled faintly. “Except outworlders don’t stay confused. Not for long. They adapt — but not like us. It’s not just learning skills or languages. They come from somewhere so different that everything here seems off to them. And so they act different.”
+
+He leaned forward. “How well did you get to know that outworlder?”
+
+“Not very well. His name was Darrin,” she said. “Turned up near the coast, stumbling into a fishing village like he’d just survived something unimaginable. Spoke the common tongue, mostly, but with a strange lilt. Called food by numbers. Called my sword a ‘machete.’ Called magic ‘cheating.’”
+
+“Sounds like he was insane,” Korin said.
+
+“Not insane, just out of his element. He was also inconvenient. Wouldn’t bow to a noble, wouldn’t pray at a shrine. Acted like none of it meant anything.” She watched the fire flicker. “He said our world was like a game or story. That none of this was real to him.”
+
+Korin’s eyes narrowed. “Did he fight?”
+
+“Oh, yes,” she said. “He was reckless and loud and tried to use words to stop fights before they started — like he thought Rabid could be reasoned with. But when the fighting came, he didn’t hesitate. He didn’t fight like a soldier. He fought like a man who had watched too many people die in his head a thousand times over and finally wanted to do it right.”
+
+There was a long silence.
+
+“What happened to him?” Korin asked.
+
+“He left. Said he was heading inland, toward one of the old ruins. Something about wanting to ‘find the edge of the map.’” She tucked the coin away. “I didn’t stop him. Wouldn’t have made a difference.”
+
+Korin turned back to the fire. “Was he dangerous?”
+
+“He was foreign. Everything about him — how he thought, how he acted, how he saw us. He wasn’t trying to change anything, he just couldn’t help but be different. And that… that makes people nervous.”
+
+The fire popped, sending up a flurry of sparks.
+
+“You think we’ll see more?” he asked.
+
+Talia watched the flames. “I think the cracks in the world are getting wider.”
 
 ## Outworlder Traits
 Outworlder heroes have access to the following traits.
