@@ -363,6 +363,13 @@ summary .codex-category {
   vertical-align: middle;
   overflow: hidden;
   font-family: "Open Sans", Arial, Verdana, sans-serif;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.download-file:hover {
+  text-decoration: none;
+  box-shadow: 2px 2px 2px black;
 }
 
 .download-file .download-icon {
@@ -376,8 +383,4 @@ summary .codex-category {
 
 .download-file .download-text {
   margin: 0 0.5rem;
-}
-
-.download-file .download-text:hover,.download-file .download-text:active {
-  text-decoration: none;
 }
