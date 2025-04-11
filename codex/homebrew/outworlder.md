@@ -4,6 +4,8 @@ title: Outworlder
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Outworlder</span>
 
+<div class="download-file"><a class="forge-steel" href="/assets/forge-steel/Outworlder.drawsteel-ancestry">Download Forge Steel File</a></div>
+
 <div class="story-text" markdown="1">The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.
 
 “You ever met one?” Korin asked, eyes fixed on a pale constellation that flickered like a wound in the sky.
@@ -83,7 +85,7 @@ You can communicate telepathically with any member of your adventuring party at 
 As a maneuver you may reach into an extradimensional space and either stow or retrieve any item you can lift. This storage is not accessible to anyone else, unless they have a looting power.
 
 #### Spirit Bond (Costs 1 Point)
-A a maneuver you can give an ally a skill you posess for the next test they make. After completing that test, regardless of the outcome, they lose access to this skill. Alternatively, you can choose to gain any one skill an ally posesses for the next test you make. After completing that test, regardless of the outcome, you lose access to that skill.
+As a maneuver you can give an ally a skill you posess for the next test they make. After completing that test, regardless of the outcome, they lose access to this skill. Alternatively, you can choose to gain any one skill an ally posesses for the next test you make. After completing that test, regardless of the outcome, you lose access to that skill.
 
 #### Tracking Immunity (Costs 1 Point)
 You are immune to being tracked by supernatural (or technological) effects, including the human ability **Detect the Supernatural**. This protection does not necessarily apply to equipment or abilities you use which are not related directly to your Outworlder Ancestry.
