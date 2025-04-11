@@ -351,30 +351,11 @@ summary .codex-category {
 
 /*download file*/
 .download-file {
-  text-align: center;
+  text-align: left;
   border: 1px solid --primaryThemeColor;
   border-radius: 0.5rem;
   position: relative;
   height: 7rem;
   width: 20rem;
-}
-
-.download-file .forge-steel {
-  position: absolute;
-  top: 0;
-  left: 0;
-  margin: .25rem;
-}
-.download-file .forge-steel::after {
-  font-family: "Open Sans", Arial, Verdana, sans-serif;
-  position: absolute;
-  top: 1rem;
-  left: 1rem;
-  height: 5rem;
-  width: 5rem;
-  margin: .25rem;
-  content: "FS";
-  overflow: hidden;
-  font-size: 5rem;
-  border: 1px solid var(--transparentPrimaryThemeColor);
+  margin: 0 auto;
 }
