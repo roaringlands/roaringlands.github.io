@@ -376,7 +376,8 @@ summary .codex-category {
 
 .download-file .download-text {
   margin: 0 0.5rem;
-  :hover{
-    text-decoration: none;
-  }
+}
+
+.download-file .download-text:hover,.download-file .download-text:active {
+  margin: 0 0.5rem;
 }
