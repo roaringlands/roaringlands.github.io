@@ -4,7 +4,7 @@ title: Outworlder
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Outworlder</span>
 
-<a class="download-file" href="/assets/forge-steel/Outworlder.drawsteel-ancestry"><span class="download-icon">⇪</span><span class="download-text">Download Forge Steel File</span></a>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Outworlder.drawsteel-ancestry"><span class="download-icon">⇪</span><span class="download-text">Download Forge Steel File</span></a></div>
 
 
 <div class="story-text" markdown="1">The campfire crackled, its warm light pushing back the creeping darkness of the forest. Two figures sat by the flames — one sharpening a curved blade, the other leaning back with hands behind his head, staring up at the stars.

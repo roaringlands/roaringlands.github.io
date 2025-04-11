@@ -350,13 +350,19 @@ summary .codex-category {
 }
 
 /*download file*/
+.download-container{
+  width: 100%;
+  text-align: center;
+}
+
 .download-file {
   border: 1px solid var(--primaryThemeColor);
   border-radius: 0.5rem;
   height: 2rem;
-  display: flex;
+  display: inline-block;
   vertical-align: middle;
   overflow: hidden;
+  font-family: "Open Sans", Arial, Verdana, sans-serif;
 }
 
 .download-file .download-icon {
