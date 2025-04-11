@@ -351,11 +351,26 @@ summary .codex-category {
 
 /*download file*/
 .download-file {
-  text-align: left;
-  border: 1px solid --primaryThemeColor;
+  border: 1px solid var(--primaryThemeColor);
   border-radius: 0.5rem;
-  position: relative;
-  height: 7rem;
-  width: 20rem;
-  margin: 0 auto;
+  height: 2rem;
+  display: flex;
+  vertical-align: middle;
+  overflow: hidden;
+}
+
+.download-file .download-icon {
+  padding: 0 0.5rem;
+  background: var(--primaryThemeColor);
+  color: var(--primaryContrastColor);
+  display: inline-block;
+  height: 100%;
+  rotate: 180deg;
+}
+
+.download-file .download-text {
+  margin: 0 0.5rem;
+  :hover{
+    text-decoration: none;
+  }
 }
