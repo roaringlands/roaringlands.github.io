@@ -16,15 +16,15 @@ She stopped sharpening. “Once. Years ago. Looked like any other fool with a sw
 
 Korin turned toward her. “What kind of questions?”
 
-“Things like why the Rabid are drawn to magic. Why we measure strength in tiers. Why we grow stronger by killing Rabid.” She tossed a twig into the fire and watched it curl into ash. “He wasn’t trying to be clever. He just didn’t know the rules.”
+“Things like what the Rabid are. Why they're drawn to attack people. Why we measure strength in tiers.” She tossed a twig into the fire and watched it curl into ash. “He wasn’t trying to be clever or devious. He just didn’t know the rules.”
 
-Korin was quiet a moment. Then, “So where do they come from?”
+Korin was quiet a moment. Then, “So where did he come from?”
 
-“No one really knows,” Talia said. “Some say the stars. Others say they fall through cracks in the world, places where reality’s worn thin. One day they just appear — dazed, confused, and often naked.”
+“He called his home 'Acron' but I've never heard of it” Talia said. “Some say outworlders come from the stars. Others say they fall through cracks in the world, places where reality’s worn thin. One day they just appear — dazed, confused, and often naked.”
 
 Korin snorted. “Sounds like half the initiates we train.”
 
-She smiled faintly. “Except outworlders don’t stay confused. Not for long. They adapt — but not like us. It’s not just learning skills or languages. They come from somewhere so different that everything here seems off to them. And so they act different.”
+She snorted as she laughed. “Except outworlders don’t stay confused. Not for long. They adapt — but not like us. It’s not just learning skills or languages. They come from somewhere so different that everything here seems off to them. And so they act different.”
 
 He leaned forward. “How well did you get to know that outworlder?”
 
@@ -52,7 +52,7 @@ The fire popped, sending up a flurry of sparks.
 
 “You think we’ll see more?” he asked.
 
-Talia watched the flames. “I think the cracks in the world are getting wider.”</div>
+Talia watched the flames. “I think the cracks in the world are getting wider. So maybe.”</div>
 
 ## Outworlder Traits
 Outworlder heroes have access to the following traits.
