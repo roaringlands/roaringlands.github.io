@@ -358,12 +358,13 @@ summary .codex-category {
 .download-file {
   border: 1px solid var(--primaryThemeColor);
   border-radius: 0.5rem;
-  height: 2rem;
+  height: 1.5rem;
   display: inline-block;
   vertical-align: middle;
   overflow: hidden;
   font-family: "Open Sans", Arial, Verdana, sans-serif;
   text-transform: uppercase;
+  font-size: 0.9rem;
 }
 
 .download-file:hover {
