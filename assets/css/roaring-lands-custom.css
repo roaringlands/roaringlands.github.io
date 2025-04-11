@@ -379,5 +379,5 @@ summary .codex-category {
 }
 
 .download-file .download-text:hover,.download-file .download-text:active {
-  margin: 0 0.5rem;
+  text-decoration: none;
 }
