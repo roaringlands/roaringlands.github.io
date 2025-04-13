@@ -6,8 +6,9 @@ cover-img: /assets/img/posts/session-0-wide.jpg
 tags: [session summary]
 ---
 
-Intro
+On Saturday, April 12, 2025 we got together for session 0. Session zero is a session during which we don't actually play our characters. Instead, we dicsuss important aspects of playing the game, but which are often only tangentially related to gameplay itself.
 
+We also created characters and helped each other to flesh out our backstories and how the adventuring party came to work together.
 
 ## Campaign & Sessions
 This section covers important topics such as content, campaign scope, and more.
