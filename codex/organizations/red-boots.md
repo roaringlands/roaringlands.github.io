@@ -4,7 +4,8 @@ title: Red Boots Mercenaries
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Red Boots Mercenaries</span>
 <div class="position-placeholder" markdown="1">
-![Red Boots Mercenaries](/assets/img/organizations/red-boots.jpeg){: .mx-auto.d-block.ai-art :}
+![Red Boots Mercenaries](/assets/img/organizations/red-boots.jpeg){: .mx-auto.d-block :}
+<span class="ai-img">AI Art</span>
 </div>
 
 Wherever a tyrannical monarch rules and seeks the destruction of an enemy, the Red Boots march. And wherever the Red Boots go, terror follows. Clothed in bcrimson leathers and wielding weapons stained with decades of cruelty, this brutal mercenary band is not driven by honor, ideology, or loyalty. They serve only coin, chaos, and the thrill of watching the world burn.
