@@ -307,7 +307,9 @@ summary .codex-category {
  .pill-new-rule { background: rgb(172, 208, 255);}
  .pill-changed-rule { background: rgb(255, 214, 144);}
 
-.position-placeholder {position: relative;}
+.position-placeholder {
+  position: relative;
+}
 
  .ai-img {
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
