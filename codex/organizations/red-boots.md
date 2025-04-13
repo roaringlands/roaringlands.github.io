@@ -4,7 +4,7 @@ title: Red Boots Mercenaries
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Red Boots Mercenaries</span>
 <div class="position-placeholder" markdown="1">
-![Red Boots Mercenaries](/assets/img/organizations/red-boots.jpeg){: .mx-auto.d-block :}
+![Red Boots Mercenaries](/assets/img/organizations/red-boots.jpg){: .mx-auto.d-block :}
 <span class="ai-img">AI Art</span>
 </div>
 
