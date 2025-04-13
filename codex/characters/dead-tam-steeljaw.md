@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dead" Tam Steeljaw
+title: Dead Tam Steeljaw
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / "Dead" Tam Steeljaw</span>
 
