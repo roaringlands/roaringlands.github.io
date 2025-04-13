@@ -4,9 +4,9 @@ title: Resonance
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Resonance</span>
 
-<div class="download-container"><a class="download-file" href="/assets/forge-steel/Resonance.drawsteel-hero"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Resonance for Forge Steel</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Resonance.drawsteel-hero"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download for Forge Steel</span></a></div>
 
-<div class="download-container"><a class="download-file" href="/assets/forge-steel/Resonance.pdf"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Resonance PDF</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Resonance.pdf"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download PDF</span></a></div>
 
 Resonance is a Memonek Troubador who tried to embrace the emotion of humor, music, and performance. Unfortunately, as a Memonek, Resonance didn't understand the emotions he was trying to invoke. he failed as a court jester, failed as a bard, and failed as a street performer. 
 
