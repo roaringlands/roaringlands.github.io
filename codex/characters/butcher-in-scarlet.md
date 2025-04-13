@@ -4,7 +4,7 @@ title: The Butcher in Scarlet
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / The Butcher in Scarlet</span>
 <div class="position-placeholder" markdown="1">
-![Butcher in Scarlet](/assets/img/characters/butcher-in-scarlet.jpeg){: .mx-auto.d-block :}
+![Butcher in Scarlet](/assets/img/characters/butcher-in-scarlet.jpeg)
 <span class="ai-img">AI Art</span>
 </div>
 
