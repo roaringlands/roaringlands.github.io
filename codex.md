@@ -12,7 +12,8 @@ The codex is where you can learn more about the Roaring Lands.
 - [Regions & Places](#regions)
 - [Organizations](#organizations)
 - [Items & Technologies](#items)
-- [Allies & Enemies](#characters)
+- [Player Characters](#characters)
+- [Allies & Enemies](#allies-enemies)
 - [House Rules & Homebrew](#homebrew)
 
 ### Basic Lore {#basic-lore}
@@ -23,7 +24,7 @@ The codex is where you can learn more about the Roaring Lands.
 - [The Rabid](/codex/the-rabid)
 
 ### Regions & Places {#regions}
-- <span class="redacted" markdown="1">[Arajaale Tropics](/codex/regions/arajaale-tropics)</span>
+- [Arajaale Tropics](/codex/regions/arajaale-tropics)
     - <span class="redacted" markdown="1">[Shadowcrest Vale](/codex/regions/shadowcrest-vale)</span>
         - <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>
             - <span class="redacted" markdown="1">[The Emerald Gardens](/codex/regions/the-emerald-gardens)</span>
@@ -52,8 +53,9 @@ The codex is where you can learn more about the Roaring Lands.
     - <span class="redacted" markdown="1">[Forgotten Obelisk](/codex/regions/forgotten-obelisk)</span>
 
 ### Organizations {#organizations}
-- [Adventurer's Society](/codex/adventurers-society)
-- <span class="redacted" markdown="1">[Slognoth Eldritch Supplies](/codex/slognoth-eldritch-supplies)</span>
+- [Adventurer's Society](/codex/organizations/adventurers-society)
+- [Red Boots Mercenaries](/codex/organizations/red-boots)
+- <span class="redacted" markdown="1">[Slognoth Eldritch Supplies](/codex/organizations/slognoth-eldritch-supplies)</span>
 
 ### Items & Technologies {#items}
 - <span class="redacted" markdown="1">[Eldtritch Gateway](/codex/items/eldritch-gateway)</span>
@@ -67,7 +69,13 @@ The codex is where you can learn more about the Roaring Lands.
 - [Awakening Stone](/codex/items/awakening-stone)
 - [Healing Salve](/codex/items/healing-salve)
 
-### Allies & Enemies {#characters}
+### Player Characters {#characters}
+- [Anak](/codex/characters/anak)
+- ["Dead" Tam Steeljaw](/codex/characters/dead-tam-steeljaw)
+- [Fellyr](/codex/characters/fellyr)
+- [Resonance](/codex/characters/resonance)
+
+### Allies & Enemies {#allies-enemies}
 - <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Finnian Ironhide](/codex/characters/finnian-ironhide)</span><span class="status-pill pill-ally">Ally</span>
 - <span class="redacted" markdown="1">[Gavin Shadowblade](/codex/characters/gavin-shadowblade)</span><span class="status-pill pill-ally">Ally</span>

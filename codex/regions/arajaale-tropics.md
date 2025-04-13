@@ -14,7 +14,7 @@ The jungles of the Arajaale Tropics are no ordinary wilderness; they are alive w
 
 ## Key Points of Interest
 
-- [Shadowcrest Vale](/codex/regions/shadowcrest-vale)
+- <span class="redacted" markdown="1">[Shadowcrest Vale](/codex/regions/shadowcrest-vale)</span>
 - <span class="redacted" markdown="1">[Euphoric Glen](/codex/regions/euphoric-glen)</span>
 - <span class="redacted" markdown="1">[Lost Ziggurat](/codex/regions/lost-ziggurat)</span>
 - <span class="redacted" markdown="1">[Underground Lake](/codex/regions/underground-lake)</span>
