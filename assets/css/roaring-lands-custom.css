@@ -342,6 +342,7 @@ summary .codex-category {
   border-radius: 0.25rem;
   text-shadow: none;
   content: 'AI Art';
+  z-index: 999;
 }
 
 /*story text*/
