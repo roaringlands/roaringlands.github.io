@@ -309,7 +309,7 @@ summary .codex-category {
 
 .position-placeholder {position: relative;}
 
- .ai-img {
+ .ai-img::after {
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
   position: absolute;
   bottom: 1rem;
@@ -396,9 +396,11 @@ summary .codex-category {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  line-height: 20rem;
 }
 .four-oh-four span {
   font-size: 5rem;
+  line-height: 5rem;
 }
 .four-oh-four:before {
   content: '';
