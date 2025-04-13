@@ -76,7 +76,7 @@ The codex is where you can learn more about the Roaring Lands.
 - [Resonance](/codex/characters/resonance)
 
 ### Allies & Enemies {#allies-enemies}
-- [Butcher in Scarlet](/codex/characters/butcher-in-scarlet)</span><span class="status-pill pill-enemy">Enemy</span>
+- [The Butcher in Scarlet](/codex/characters/butcher-in-scarlet)<span class="status-pill pill-enemy">Enemy</span>
 - <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Finnian Ironhide](/codex/characters/finnian-ironhide)</span><span class="status-pill pill-ally">Ally</span>
 - <span class="redacted" markdown="1">[Gavin Shadowblade](/codex/characters/gavin-shadowblade)</span><span class="status-pill pill-ally">Ally</span>
