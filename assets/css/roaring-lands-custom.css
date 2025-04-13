@@ -388,7 +388,7 @@ summary .codex-category {
 
 /*404*/
 .four-oh-four {
-  font-size: 10rem;
+  font-size: 20rem;
   font-family: sans-serif;
   position: relative;
   background: white;
@@ -396,6 +396,9 @@ summary .codex-category {
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+.four-oh-four span {
+  font-size: 5rem;
 }
 .four-oh-four:before {
   content: '';
