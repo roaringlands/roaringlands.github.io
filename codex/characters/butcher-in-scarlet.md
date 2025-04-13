@@ -3,7 +3,7 @@ layout: page
 title: Butcher in Scarlet
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Butcher in Scarlet</span>
-<div class="position-placeholder" markdown="1"><img src="/assets/img/characters/butcher-in-scarlet.jpeg" alt="Butcher in Scarlet" class="mx-auto.d-block" > <span class="ai-img">AI Art</span></div>
+<div class="position-placeholder" markdown="1"><img src="/assets/img/characters/butcher-in-scarlet.jpeg" alt="Butcher in Scarlet" class="mx-auto.d-block" /><span class="ai-img">AI Art</span></div>
 
 Among the countless horrors that stalk the broken roads of the [Roaring Lands](/codex/the-roaring-lands), few inspire dread like the Butcher in Scarlet. Commander of the [Red Boots](/codex/organizations/red-boots) and [Gold Tier](/codex/tiers-of-awakening) adventurer-turned-madman, his name is spoken in hushed tones, if at all, but always with a wary glance toward the horizon. For where he walks, death is not far behind.
 
