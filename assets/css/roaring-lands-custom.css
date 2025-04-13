@@ -309,7 +309,7 @@ summary .codex-category {
 
 .position-placeholder {position: relative;}
 
- .ai-img::after {
+ .ai-img {
 	font-family: "Open Sans", Arial, Verdana, sans-serif;
   position: absolute;
   bottom: 1rem;
@@ -323,7 +323,6 @@ summary .codex-category {
   border: 1px solid rgba(255,255,255,0.5);
   border-radius: 0.25rem;
   text-shadow: none;
-  content: 'AI Art';
 }
 
 .ai-art {position:relative;}
@@ -342,6 +341,7 @@ summary .codex-category {
   border: 1px solid rgba(255,255,255,0.5);
   border-radius: 0.25rem;
   text-shadow: none;
+  content: 'AI Art';
 }
 
 /*story text*/
