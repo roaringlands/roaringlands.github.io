@@ -21,6 +21,9 @@ Market Town is more than just a center of commerce; it is also a vibrant cultura
 
 In Market Town, the spirit of enterprise and the pulse of city life converge, creating a dynamic and thriving community that embodies the essence of [Shadowcrest Vale](/codex/regions/shadowcrest-vale) itself.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 - <span class="redacted" markdown="1">[The Arcane Exchange](/codex/regions/the-arcane-exchange)</span>
 - <span class="redacted" markdown="1">[The Twilight Market](/codex/regions/the-twilight-market)</span>

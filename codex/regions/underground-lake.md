@@ -30,3 +30,6 @@ There is another entrance hidden beneath a waterfall.
 ![Underground Lake Alternate Entrance](/assets/img/regions/underground-lake-alternate-entrance.jpeg){: .mx-auto.d-block :}
 
 </div>
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

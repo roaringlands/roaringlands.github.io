@@ -14,3 +14,6 @@ Trisileth Erebor is a striking woman with piercing green eyes, sharp cheekbones,
 Born to an exiled elven diplomat and a human sellsword, Tris grew up in war camps, learning battle tactics before she could properly read. Her mixed heritage left her an outsider—never fully accepted in elven society, nor entirely trusted among humans. But on the battlefield, where skill mattered more than blood, she carved out a name for herself.
 
 By her twenties, Tris had led her own band of mercenaries, known for their precision and discipline. Rising to silver tier with a mix of ruthless pragmatism and battlefield brilliance, she now serves as an agent for other bands, managing contracts, brokering new deals with cities in the [Arajaale Tropics](/codex/regions/arajaale-tropics).
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

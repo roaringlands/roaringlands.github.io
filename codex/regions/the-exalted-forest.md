@@ -15,6 +15,9 @@ No matter the weather or time of day outside the Exalted Forest customers inside
 
 Just outside the door of the shop sits any one of a dozen different interchangeable brutes. Each one bearing a magically imbued club and guarding a secure lockbox. Every patron is asked to leave any holy symbols or other equipment that might deal radiant damage or generate sunlight.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Currently Available Items:
 
 - None Listed

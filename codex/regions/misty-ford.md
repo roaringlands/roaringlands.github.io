@@ -19,5 +19,8 @@ Despite its sparse population, Misty Ford is not devoid of activity or significa
 
 Misty Ford is also a place of untold potential and possibility. With its untouched landscapes and pristine beauty, the ward serves as a blank canvas upon which the dreams and aspirations of its inhabitants can take root and flourish. Here, amidst the misty forests and winding rivers, the future of [Shadowcrest Vale](/codex/regions/shadowcrest-vale) awaits, waiting to be shaped by the hands of those bold enough to seize it.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 - <span class="redacted" markdown="1">[The Feywild Market](/codex/regions/the-feywild-market)</span>

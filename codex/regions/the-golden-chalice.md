@@ -10,3 +10,6 @@ subtitle: Beacon of refinement and indulgence
 </div>
 
 Tucked away within the winding streets of the [[Upper Ward]](/codex/regions/upper-ward), the Golden Chalice stands as a beacon of refinement and indulgence. This exclusive establishment, renowned throughout [[Shadowcrest Vale]](/codex/regions/shadowcrest-vale) for its unparalleled cuisine and impeccable service, caters to the discerning tastes of the city’s elite. Patrons enter through gilded doors into a world of luxury and sophistication, where crystal chandeliers cast a warm glow over polished marble floors and plush velvet furnishings. Here, master chefs craft culinary masterpieces from the finest ingredients, while sommeliers guide guests through an extensive selection of rare wines and spirits. Whether hosting a private banquet or enjoying an intimate dinner for two, visitors to the Golden Chalice are treated to an unforgettable dining experience that tantalizes the senses and leaves a lasting impression.
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

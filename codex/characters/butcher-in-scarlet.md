@@ -19,3 +19,6 @@ His aura is suffocating. Even other Gold Tier creatures tread lightly in his pre
 To see the Butcher in Scarlet is to face the end. Not in glorious battle, but in screaming, helpless ruin. He doesn’t just kill.
 
 He devours hope.
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

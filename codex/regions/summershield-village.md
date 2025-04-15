@@ -20,3 +20,6 @@ Beyond the marketplace, the jungle encroaches upon the village, its thick foliag
 At night, the village comes alive with the soft glow of lanterns and torches, casting flickering shadows upon the walls of the cottages and illuminating the faces of those gathered around the communal fire. Under the blanket of stars, villagers share stories and songs, their voices rising in harmony with the rustle of the wind and the distant cry of nocturnal creatures.
 
 It is a place of simple joys and quiet contentment, where the pace of life is dictated by the changing of the seasons and the cycles of nature. Here, amidst the beauty of the jungle, one can’t help but feel a sense of peace and belonging—as if this is a place where one might truly find a home, and never want to leave.
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

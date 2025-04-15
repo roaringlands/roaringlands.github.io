@@ -38,3 +38,6 @@ The Adventurer's Society is one of the most powerful single organizations in the
 ### Article VI: Dissolution
 
 - **Dissolution:** In the event of the Society’s dissolution, assets shall be distributed among active members in good standing, with any remaining assets donated to charitable causes approved by the Society council.
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

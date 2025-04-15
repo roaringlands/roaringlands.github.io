@@ -19,6 +19,9 @@ Surrounding the obelisk, there are no other signs of civilization—no crumbling
 
 And so the forgotten stone obelisk stands, a silent witness to the passage of ages, its secrets hidden beneath a cloak of vines and moss, waiting patiently for the day when they will be revealed once more to those who dare to seek them out.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 <div class="box-info redacted" markdown="1">
 ## The Inscription Reads
 
@@ -47,3 +50,6 @@ Where ancient whispers, their echoes quake.
 In realms obscure, where shadows dwell,
 The stone’s power, it shall forever swell.
 </div>
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

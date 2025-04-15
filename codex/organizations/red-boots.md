@@ -17,3 +17,6 @@ No village is too small, no target too innocent. Where they ride, they leave sco
 Led by the infamous [Butcher in Scarlet](/codex/characters/butcher-in-scarlet), the Red Boots don’t take prisoners, they leave warnings. Their emblem, a single bloodied footprint, is often the last thing seen before fire consumes the horizon. They are more than soldiers—they are nightmares wrapped in flesh and iron, and they do not march for victory.
 
 They march for carnage.
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

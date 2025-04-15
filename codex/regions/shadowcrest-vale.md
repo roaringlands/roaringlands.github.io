@@ -20,6 +20,8 @@ Within the embrace of Shadowcrest Vale’s seven wards, each district boasts its
 
 Yet, for all its natural splendor, Shadowcrest Vale is not without its challenges. The relentless growth of the jungle demands constant vigilance from the city’s caretakers, who work tirelessly to maintain clear pathways and ensure the safety of its citizens. Despite these obstacles, however, the people of Shadowcrest Vale thrive, drawing strength from the symbiotic relationship they share with the enchanted land that surrounds them.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
 
 ## City Wards
 - <span class="redacted" markdown="1">[Upper Ward](/codex/regions/upper-ward)</span>

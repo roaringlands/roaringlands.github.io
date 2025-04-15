@@ -19,6 +19,9 @@ Amid the hustle and bustle of daily life, there are still reminders of the distr
 
 Despite its humble origins, Ashen Town is a place of warmth and hospitality, where strangers are welcomed with open arms and kindness knows no bounds. In the shadow of tragedy, the community of Ashen Town has risen from the ashes to create a vibrant and inclusive neighborhood that stands as a testament to the power of resilience and the enduring spirit of hope.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 - <span class="redacted" markdown="1">[The Resilience Garden](/codex/regions/the-resilience-garden)</span>
 - <span class="redacted" markdown="1">[The Hearthside Bakery](/codex/regions/the-hearthside-bakery)</span>

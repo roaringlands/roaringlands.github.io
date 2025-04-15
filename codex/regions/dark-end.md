@@ -21,6 +21,9 @@ Despite its reputation as a haven for the city’s underworld, Dark End is also 
 
 In Dark End, the lines between light and dark blur, and the boundaries between the lawful and the lawless become increasingly indistinct. Yet, amidst the gloom and the shadows, there exists a spirit of resilience and defiance that binds the residents of this ward together, forging bonds that withstand even the darkest of times.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 - <span class="redacted" markdown="1">[The Shadowed Tavern](/codex/regions/the-shadowed-tavern)</span>
 - <span class="redacted" markdown="1">[The Forgotten Library](/codex/regions/the-forgotten-library)</span>

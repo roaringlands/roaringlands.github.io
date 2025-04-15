@@ -21,5 +21,8 @@ Unlike the exclusive establishments of the Upper Ward, the businesses of The Hil
 
 The Hill has its own sense of pride and community. Residents band together to celebrate festivals and holidays, forging bonds of friendship and camaraderie that transcend social status. In The Hill, everyone has a place, and no one is left behind.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 - <span class="redacted" markdown="1">[The Artisan’s Plaza](/codex/regions/the-artisans-plaza)</span>

@@ -57,6 +57,9 @@ The fire popped, sending up a flurry of sparks.
 Talia watched the flames. “I think the cracks in the world are getting wider. So maybe.”
 </div>
 
+{: .box-note}
+The content above was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Outworlder Traits
 Outworlder heroes have access to the following traits.
 

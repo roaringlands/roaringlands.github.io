@@ -14,3 +14,6 @@ Tucked away amidst a lush grove of ancient trees, the Towering Gardens stands as
 The inn’s proprietor [Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal) is a massive Firbolg who keeps the inn’s counters and tables gleaming, and keeps the plantlife at bay.
 
 ![The Towering Gardens Interior](/assets/img/regions/towering-gardens-interior.jpeg){: .mx-auto.d-block :}
+
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.

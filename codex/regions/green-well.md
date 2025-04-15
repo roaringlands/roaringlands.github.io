@@ -22,6 +22,9 @@ In the evenings, as the sun sets behind the towering trees, the streets of Green
 
 In Green Well, the rhythms of nature and the pulse of city life intertwine, creating a harmonious blend of old-world charm and modern convenience that captures the essence of [Shadowcrest Vale](/codex/regions/shadowcrest-vale) itself.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 
 - [The Towering Gardens](/codex/regions/the-towering-gardens)

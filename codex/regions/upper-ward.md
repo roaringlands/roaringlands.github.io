@@ -19,6 +19,9 @@ Merchants, drawn by the promise of wealth and influence, vie for the favor of th
 
 The Upper Ward is not without its tensions. Beneath the veneer of civility lies a web of intrigue and rivalry, as ambitious courtiers vie for the Duke’s favor and merchants seek to outmaneuver their rivals in the pursuit of profit. In this world of high stakes and cutthroat politics, alliances are fleeting and betrayals commonplace, as each resident of the Upper Ward seeks to carve out their own place in the hierarchy of Shadowcrest Vale.
 
+{: .box-note}
+This content was written using Generative AI, then edited and revised prior to posting it on this site.
+
 ## Key Locations
 
 - <span class="redacted" markdown="1">[[The Emerald Gardens]](/codex/regions/emeral-gardens)</span>
