@@ -4,7 +4,7 @@ title: Loot Rabid
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Loot Monster</span>
 
-<div class="download-container"><a class="download-file" href="/assets/forge-steel/Loot Rabid.drawsteel-perk"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Perk for Forge Steel</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Loot-Rabid.drawsteel-perk"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download Perk for Forge Steel</span></a></div>
 
 **Perk Category:** Crafting, Supernatural
 

@@ -3,6 +3,8 @@ layout: page
 title: Anak
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / Anak</span>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Anak.drawsteel-hero"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download for Forge Steel</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Anak.pdf" target="_blank"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download PDF</span></a></div>
 
 Anak is a Hakaan Fury who comes from a mountain village. For many years, Anak was on the path to become a craftsperson in his village, but those plans were interrupted by an invasion of mercenaries. A group of violent mercenaries took over Anak's hometown, subjugating the inhabitants. When Anak tried to resist, he was thrown in a dungeon for more than a year.
 

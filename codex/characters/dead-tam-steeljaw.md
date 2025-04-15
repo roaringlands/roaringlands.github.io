@@ -4,9 +4,9 @@ title: Dead Tam Steeljaw
 ---
 <span class="breadcrumbs" markdown="1">... [Codex](/codex) / "Dead" Tam Steeljaw</span>
 
-<div class="download-container"><a class="download-file" href="/assets/forge-steel/_Dead_ Tam Steeljaw.drawsteel-hero"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download for Forge Steel</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Dead-Tam-Steeljaw.drawsteel-hero"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download for Forge Steel</span></a></div>
 
-<div class="download-container"><a class="download-file" href="/assets/forge-steel/_Dead_ Tam Steeljaw.pdf" target="_blank"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download PDF</span></a></div>
+<div class="download-container"><a class="download-file" href="/assets/forge-steel/Dead-Tam-Steeljaw.pdf" target="_blank"><span class="download-icon"><i class="fa fa-download"></i></span><span class="download-text">Download PDF</span></a></div>
 
 "Dead" Tam Steeljaw is a Revenant Tactician, and one-time elite solider of the [Red Boots](/codex/organizations/red-boots). As a young man, Tam joined up with a mercenary company along with his best friend. Neither really knew the reputation or disposition of the mercenaries, but soon learned that the [Red Boots Mercenaries](/codex/organizations/red-boots) were among the most brutal and unforgiving mercenary organizations in the world.
 
