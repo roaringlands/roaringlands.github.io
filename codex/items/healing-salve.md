@@ -10,6 +10,6 @@ title: Healing Salve
 
 This tin is filled with a yellow paste. The paste gives off a strong medicinal scent. When applied to minor injuries, they will rapidly heal.
 
-Requires one minute to use. Restores 2 Stamina per use.
+Requires one minute to use. Recover Stamina equal to your recovery value.
 
-**Maximum Uses:** 4
+**Has 4 Charges.** This item is consumed after its fourth use.

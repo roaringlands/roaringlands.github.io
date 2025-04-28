@@ -147,7 +147,7 @@
 				],
 				"count": 1,
 				"selected": [
-					"Forgery"
+					"Intimidate"
 				]
 			}
 		},
@@ -1084,23 +1084,24 @@
 									"count": 1,
 									"selected": [
 										{
-											"id": "kit-mountain",
-											"name": "Mountain",
-											"description": "The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it’s your turn to attack.",
+											"id": "kit-shining-armor",
+											"name": "Shining Armor",
+											"description": "The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.",
 											"type": "",
 											"armor": [
-												"Heavy Armor"
+												"Heavy Armor",
+												"Shield"
 											],
 											"weapon": [
-												"Heavy Weapon"
+												"Medium Weapon"
 											],
-											"stamina": 9,
+											"stamina": 12,
 											"speed": 0,
-											"stability": 2,
+											"stability": 1,
 											"meleeDamage": {
-												"tier1": 0,
-												"tier2": 0,
-												"tier3": 4
+												"tier1": 2,
+												"tier2": 2,
+												"tier3": 2
 											},
 											"rangedDamage": null,
 											"meleeDistance": 0,
@@ -1108,15 +1109,15 @@
 											"disengage": 0,
 											"features": [
 												{
-													"id": "kit-mountain-signature",
-													"name": "Pain For Pain",
-													"description": "An enemy who tagged you will pay for that.",
+													"id": "kit-shining-armor-signature",
+													"name": "Protective Attack",
+													"description": "The strength of your assault makes it impossible for your foe to ignore you.",
 													"type": "Ability",
 													"data": {
 														"ability": {
-															"id": "kit-mountain-signature",
-															"name": "Pain For Pain",
-															"description": "An enemy who tagged you will pay for that.",
+															"id": "kit-shining-armor-signature",
+															"name": "Protective Attack",
+															"description": "The strength of your assault makes it impossible for your foe to ignore you.",
 															"type": {
 																"usage": "Action",
 																"free": false,
@@ -1150,12 +1151,12 @@
 																	"Agility"
 																],
 																"bonus": 0,
-																"tier1": "3 damage + M or A damage",
-																"tier2": "5 damage + M or A damage",
-																"tier3": "9 damage + M or A damage"
+																"tier1": "3 + M or A damage",
+																"tier2": "6 + M or A damage",
+																"tier3": "9 + M or A damage"
 															},
 															"test": null,
-															"effect": "If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).",
+															"effect": "The target is taunted (EoT).",
 															"strained": "",
 															"alternateEffects": [],
 															"spend": [],
@@ -2012,7 +2013,7 @@
 					"count": 2,
 					"selected": [
 						"Gymnastics",
-						"Lift"
+						"Swim"
 					]
 				}
 			},
@@ -2102,7 +2103,40 @@
 			"selectedID": "career-laborer-ii-6"
 		}
 	},
-	"complication": null,
+	"complication": {
+		"id": "comp-wronglyImprisoned",
+		"name": "Wrongly Imprisoned",
+		"description": "You spent many years imprisoned for a crime you didn’t commit. During your long hours of solitary confinement, you honed your skills and you recited the names of those who framed you. Someday you will have your revenge.",
+		"features": [
+			{
+				"id": "comp-wronglyImprisoned-b",
+				"name": "Crafting / Exploration / Intrigue / Lore Skills",
+				"description": "",
+				"type": "Skill Choice",
+				"data": {
+					"options": [],
+					"listOptions": [
+						"Crafting",
+						"Exploration",
+						"Intrigue",
+						"Lore"
+					],
+					"count": 2,
+					"selected": [
+						"Forgery",
+						"Monsters"
+					]
+				}
+			},
+			{
+				"id": "comp-wronglyImprisoned-d",
+				"name": "Wrongly Imprisoned Drawback",
+				"description": "Your health suffered in prison. While you are winded, you develop a hacking cough, which makes it impossible for you to hide or sneak.",
+				"type": "Text",
+				"data": null
+			}
+		]
+	},
 	"features": [
 		{
 			"id": "default-language",
