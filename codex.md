@@ -32,6 +32,7 @@ The codex is where you can learn more about the Roaring Lands.
             - <span class="redacted" markdown="1">[The Ivory Tower](/codex/regions/the-ivory-tower)</span>
         - [The Hill](/codex/regions/the-hill)
             - <span class="redacted" markdown="1">[The Artisan's Plaza](/codex/regions/the-artisans-plaza)</span>
+            - <span class="redacted" markdown="1">[The Adventure Society Campus](/codex/regions/adventure-society-campus)</span>
         - [Green Well](/codex/regions/green-well)
             - [The Towering Gardens](/codex/regions/the-towering-gardens)
         - [Misty Ford](/codex/regions/misty-ford)

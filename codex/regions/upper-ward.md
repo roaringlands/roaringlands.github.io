@@ -24,6 +24,6 @@ This content was written using Generative AI, then edited and revised prior to p
 
 ## Key Locations
 
-- <span class="redacted" markdown="1">[[The Emerald Gardens]](/codex/regions/emeral-gardens)</span>
-- <span class="redacted" markdown="1">[[The Golden Chalice]](/codex/regions/golden-chalice)</span>
-- <span class="redacted" markdown="1">[[The Ivory Tower]](/codex/regions/ivory-tower)</span>
+- <span class="redacted" markdown="1">[[The Emerald Gardens]](/codex/regions/the-emerald-gardens)</span>
+- <span class="redacted" markdown="1">[[The Golden Chalice]](/codex/regions/the-golden-chalice)</span>
+- <span class="redacted" markdown="1">[[The Ivory Tower]](/codex/regions/the-ivory-tower)</span>
