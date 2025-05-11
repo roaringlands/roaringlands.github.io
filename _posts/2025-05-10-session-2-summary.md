@@ -47,23 +47,23 @@ Though it was a hard-fought battle, ultimately the party destroyed the last of t
 Over the next two weeks, the party has committed to complete as many of the following contracts as they can, in a meandering loop across the Arajaale Tropics.
 
 #### Contract 2: Bells at Redwater
-**Travel Time:** 1.5 days from Gnoll report
-**Reported Monster:** Angulotl (12)
+**Travel Time:** 1.5 days from Gnoll report  
+**Reported Monster:** Angulotl (12)  
 **Summary:** Villagers in Redwater Crossing report hearing deep, resonant bell-like calls echoing through the night and finding large gouges carved into the mud near the river. Livestock have gone missing—dragged into the jungle. Locals speak of a “singing beast” that lures animals away.
 
 #### Contract 3: Trouble at Spindle Hollow
-**Travel Time:** 2 days to Spindle Hollow
-**Reported Monster:** Goblins (8–12)
+**Travel Time:** 2 days to Spindle Hollow  
+**Reported Monster:** Goblins (8–12)  
 **Summary:** Miners at Spindle Hollow have reported sabotage: collapsed tunnels, stolen tools, and torchlight spotted in the deep shafts. They suspect a goblin tribe has taken up residence in the old silver veins.
 
 #### Contract 4: Stones that Breathe
-**Travel Time:** 3 days to the slopes of Tamar’s Rise
-**Reported Monster:** Ogres (2)
+**Travel Time:** 3 days to the slopes of Tamar’s Rise  
+**Reported Monster:** Ogres (2)  
 **Summary:** A traveling tinker claims to have seen "two massive stone-skinned beasts" dragging a cart into the jungle. He says they were “chanting” in broken Caelian and eating something raw.
 
 #### Contract 5: Thorns in the Canopy
-**Travel Time:** 2 days returning toward Shadowcrest Vale
-**Reported Monster:** Unknown, something flying
+**Travel Time:** 2 days returning toward Shadowcrest Vale  
+**Reported Monster:** Unknown, something flying  
 **Summary:** Scouts report strange activity above the jungle near the Canopy Verge. Vines have rapidly overgrown entire clearings overnight. A patrolling courier described “something huge with wings and thorns” attacking a nesting site.
 
 ## Out of Character
