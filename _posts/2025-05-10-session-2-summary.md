@@ -2,7 +2,7 @@
 layout: post
 title: Session 2 Summary
 subtitle: Doing What Adventurers Do
-cover-img: /assets/img/posts/session-2.jpeg
+cover-img: /assets/img/posts/Session-2.jpeg
 tags: [session summary]
 ---
 
