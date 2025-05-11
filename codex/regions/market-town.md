@@ -25,5 +25,5 @@ In Market Town, the spirit of enterprise and the pulse of city life converge, cr
 This content was written using Generative AI, then edited and revised prior to posting it on this site.
 
 ## Key Locations
-- <span class="redacted" markdown="1">[The Arcane Exchange](/codex/regions/the-arcane-exchange)</span>
+- [The Arcane Exchange](/codex/regions/the-arcane-exchange)
 - <span class="redacted" markdown="1">[The Twilight Market](/codex/regions/the-twilight-market)</span>

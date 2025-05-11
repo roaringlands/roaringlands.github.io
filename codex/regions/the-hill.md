@@ -26,4 +26,4 @@ This content was written using Generative AI, then edited and revised prior to p
 
 ## Key Locations
 - <span class="redacted" markdown="1">[The Artisan’s Plaza](/codex/regions/the-artisans-plaza)</span>
-- <span class="redacted" markdown="1">[The Adventure Society Campus](/codex/regions/adventure-society-campus)</span>
+- [The Adventure Society Campus](/codex/regions/adventure-society-campus)

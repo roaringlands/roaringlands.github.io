@@ -32,14 +32,14 @@ The codex is where you can learn more about the Roaring Lands.
             - <span class="redacted" markdown="1">[The Ivory Tower](/codex/regions/the-ivory-tower)</span>
         - [The Hill](/codex/regions/the-hill)
             - <span class="redacted" markdown="1">[The Artisan's Plaza](/codex/regions/the-artisans-plaza)</span>
-            - <span class="redacted" markdown="1">[The Adventure Society Campus](/codex/regions/adventure-society-campus)</span>
+            - [The Adventure Society Campus](/codex/regions/adventure-society-campus)
         - [Green Well](/codex/regions/green-well)
             - [The Towering Gardens](/codex/regions/the-towering-gardens)
         - [Misty Ford](/codex/regions/misty-ford)
             - <span class="redacted" markdown="1">[The Feywild Market](/codex/regions/the-feywild-market)</span>
         - [Market Town](/codex/regions/market-town)
-            - <span class="redacted" markdown="1">[The Arcane Exchange](/codex/regions/the-arcane-exchange)</span>
-                - <span class="redacted" markdown="1">[The Exalted Forest](/codex/regions/the-exalted-forest)</span>
+            - [The Arcane Exchange](/codex/regions/the-arcane-exchange)
+                - [The Exalted Forest](/codex/regions/the-exalted-forest)
             - <span class="redacted" markdown="1">[The Twilight Market](/codex/regions/the-twilight-market)</span>
         - [Ashen Town](/codex/regions/ashen-town)
             - <span class="redacted" markdown="1">[The Resilience Garden](/codex/regions/the-resilience-garden)</span>
@@ -77,15 +77,22 @@ The codex is where you can learn more about the Roaring Lands.
 - [Resonance](/codex/characters/resonance)
 
 ### Allies & Enemies {#allies-enemies}
+- [Albert Alberici](/codex/characters/albert-alberici)<span class="status-pill pill-neutral">Neutral</span>
 - [The Butcher in Scarlet](/codex/characters/butcher-in-scarlet)<span class="status-pill pill-enemy">Enemy</span>
+- <span class="redacted" markdown="1">[Dilbert Alberici](/codex/characters/dilbert-alberici)</span><span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Egbert Alberici](/codex/characters/egbert-alberici)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Eredos Yon](/codex/characters/eredos-yon)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Finnian Ironhide](/codex/characters/finnian-ironhide)</span><span class="status-pill pill-ally">Ally</span>
 - <span class="redacted" markdown="1">[Gavin Shadowblade](/codex/characters/gavin-shadowblade)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Gilbert Alberici](/codex/characters/gilbert-alberici)</span><span class="status-pill pill-neutral">Neutral</span>
+- [Hubert Alberici](/codex/characters/hubert-alberici)<span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Kaela Frostheart](/codex/characters/kaela-frostheard)</span><span class="status-pill pill-ally">Ally</span>
 - <span class="redacted" markdown="1">[Kaiser Kirk](/codex/characters/kaiser-kirk.md)</span><span class="status-pill pill-neutral">Neutral</span>
-- <span class="redacted" markdown="1">[Kassoum Yaro](/codex/characters/kassoum-yaro)</span><span class="status-pill pill-neutral">Neutral</span>
-- <span class="redacted" markdown="1">[Melantha Yaro](/codex/characters/melantha-yaro)</span><span class="status-pill pill-neutral">Neutral</span>
+- [Kassoum Yaro](/codex/characters/kassoum-yaro)<span class="status-pill pill-neutral">Neutral</span>
+- [Melantha Yaro](/codex/characters/melantha-yaro)<span class="status-pill pill-neutral">Neutral</span>
+- <span class="redacted" markdown="1">[Norbert Alberici](/codex/characters/Norbert-alberici)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Rhannon Stormcaller](/codex/characters/rhannon-stormcaller)</span><span class="status-pill pill-ally">Ally</span>
+- <span class="redacted" markdown="1">[Robert Alberici](/codex/characters/robert-alberici)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Rur Ifom](/codex/characters/rur-ifom)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Talia Trask](/codex/characters/talia-trask)</span><span class="status-pill pill-neutral">Neutral</span>
 - <span class="redacted" markdown="1">[Thal'kor the Bone Lord](/codex/characters/thalkor-the-bone-lord)</span><span class="status-pill pill-enemy">enemy</span>
