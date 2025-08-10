@@ -2,7 +2,7 @@
 layout: post
 title: Session 5 Summary
 subtitle: The Beaverlisk
-cover-img: /assets/img/posts/Session-5.png
+cover-img: /assets/img/posts/session-5.png
 tags: [session summary]
 ---
 
