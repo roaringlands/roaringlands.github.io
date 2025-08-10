@@ -2,7 +2,7 @@
 layout: post
 title: Session 4 Summary
 subtitle: Thorns in the Canopy
-cover-img: /assets/img/posts/session-4.png
+cover-img: /assets/img/posts/session-4.jpeg
 tags: [session summary]
 ---
 
