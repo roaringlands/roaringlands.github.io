@@ -75,6 +75,8 @@ The codex is where you can learn more about the Roaring Lands.
 - ["Dead" Tam Steeljaw](/codex/characters/dead-tam-steeljaw)
 - [Fellyr](/codex/characters/fellyr)
 - [Resonance](/codex/characters/resonance)
+- [Vercingetorix](/codex/characters/vercingetorix)
+- [Ward](/codex/characters/ward)
 
 ### Allies & Enemies {#allies-enemies}
 - [Albert Alberici](/codex/characters/albert-alberici)<span class="status-pill pill-bert">Bert</span>
