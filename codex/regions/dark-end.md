@@ -25,5 +25,5 @@ In Dark End, the lines between light and dark blur, and the boundaries between t
 This content was written using Generative AI, then edited and revised prior to posting it on this site.
 
 ## Key Locations
-- <span class="redacted" markdown="1">[The Shadowed Tavern](/codex/regions/the-shadowed-tavern)</span>
+- [The Shadowed Tavern](/codex/regions/the-shadowed-tavern)
 - <span class="redacted" markdown="1">[The Forgotten Library](/codex/regions/the-forgotten-library)</span>

@@ -45,7 +45,7 @@ The codex is where you can learn more about the Roaring Lands.
             - <span class="redacted" markdown="1">[The Resilience Garden](/codex/regions/the-resilience-garden)</span>
             - <span class="redacted" markdown="1">[The Hearthside Bakery](/codex/regions/the-hearthside-bakery)</span>
         - [Dark End](/codex/regions/dark-end)
-            - <span class="redacted" markdown="1">[The Shadowed Tavern](/codex/regions/the-shadowed-tavern)</span>
+            - [The Shadowed Tavern](/codex/regions/the-shadowed-tavern)
             - <span class="redacted" markdown="1">[The Forgotten Library](/codex/regions/the-forgotten-library)</span>
     - <span class="redacted" markdown="1">[Euphoric Glen](/codex/regions/euphoric-glen)</span>
     - <span class="redacted" markdown="1">[Lost Ziggurat](/codex/regions/lost-ziggurat)</span>
@@ -100,6 +100,7 @@ The codex is where you can learn more about the Roaring Lands.
 - <span class="redacted" markdown="1">[Thal'kor the Bone Lord](/codex/characters/thalkor-the-bone-lord)</span><span class="status-pill pill-enemy">enemy</span>
 - <span class="redacted" markdown="1">[Trisileth Erebor](/codex/characters/trisileth-erebor)</span><span class="status-pill pill-neutral">Neutral</span>
 - [Vaneiros Oakenpetal](/codex/characters/vaneiros-oakenpetal)<span class="status-pill pill-neutral">Neutral</span>
+- [Murray](/codex/characters/murray)<span class="status-pill pill-neutral">Neutral</span>
 - [Zalthorax the Deathbringer](/codex/characters/zalthorax-the-deathbringer)<span class="status-pill pill-enemy">enemy</span>
 
 ### House Rules & Homebrew {#homebrew}
